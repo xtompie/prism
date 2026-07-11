@@ -7,6 +7,31 @@ A skill for Claude Code that enforces an **"indirect"** mode: instead of rushing
 - `do X for me` → direct, standard.
 - `/prism do X for me` → slower, but much better: the skill picks lenses, looks at the problem from many angles, and first shows what isn't obvious at a glance.
 
+## Demo
+
+Task: **design a cache layer for an API gateway**
+
+**Direct** — `design a cache layer for the gateway`:
+
+> Add Redis, cache responses with a TTL, use cache-aside. Done.
+
+**With Prism** — `/prism design a cache layer for the gateway`:
+
+> Lenses picked: `first-principles`, `constraints-first`, `prior-art-failure-hunt`, `inversion`, `second-order`, `theory-of-constraints`.
+>
+> Challenges & decisions to settle **before** writing code:
+> - **Resolver ≠ cache ≠ data-source** — three separate concerns; conflating them smears invalidation logic everywhere.
+> - **Invalidation strategy** (the actual hard part): TTL vs event-based vs per-entity — decide before the schema.
+> - **Many-to-many keys** — one resolver reads many sources; one source feeds many resolvers → cache-key and invalidation fan-out.
+> - **Cache stampede** on a miss (thundering herd) → single-flight / stale-while-revalidate?
+> - **Dual-write trap** — source write succeeds but cache update fails → who wins, and how do you detect drift?
+> - **Consistency budget** — strong vs stale-while-revalidate, per endpoint.
+> - **Bottleneck metric** (ToC): cache hit-rate is the number to optimize — instrument it first.
+>
+> → Settle these, then I'll propose an architecture. Go deeper, or move to design?
+
+Same question. One answer ships shallow; the other surfaces the decisions that actually shape the system.
+
 ## Three sources of lenses (all live)
 
 1. **The model's head** — lenses the model knows, even from outside the folder.
