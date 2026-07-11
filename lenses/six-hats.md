@@ -1,6 +1,6 @@
 ---
 name: six-hats
-when: ocena pomyslu, gdy grozi jednostronnosc
+when: ocena pomysłu, gdy grozi jednostronność
 when_not: decyzja trywialna
 ---
-Swiadomie obejdz problem z szesciu trybow po kolei — fakty, emocje, ryzyka, korzysci, kreatywnosc, meta-proces — zamiast mieszac je naraz.
+Świadomie obejdź problem z sześciu trybów po kolei — fakty, emocje, ryzyka, korzyści, kreatywność, meta-proces — zamiast mieszać je naraz.

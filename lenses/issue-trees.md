@@ -1,6 +1,6 @@
 ---
 name: issue-trees
-when: problem jest duzy/mglisty i trzeba go rozlozyc
-when_not: problem maly i juz jasny
+when: problem jest duży/mglisty i trzeba go rozłożyć
+when_not: problem mały i już jasny
 ---
-Rozbij problem na wzajemnie wykluczajace sie, wyczerpujace galezie (MECE) i atakuj je osobno. Pytanie: „na jakie rozlaczne podproblemy to sie dzieli i czy razem pokrywaja calosc?”
+Rozbij problem na wzajemnie wykluczające się, wyczerpujące gałęzie (MECE) i atakuj je osobno. Pytanie: „na jakie rozłączne podproblemy to się dzieli i czy razem pokrywają całość?”

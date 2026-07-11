@@ -1,6 +1,6 @@
 ---
 name: bind-output-to-intent
-when: tuz przed oddaniem wyniku pracy tworczej
+when: tuż przed oddaniem wyniku pracy twórczej
 when_not: brak zadeklarowanego kierunku
 ---
-Sprawdz, czy finalny artefakt naprawde realizuje zadeklarowany kierunek, a nie instynktowny default. Pytanie: „obiecalem minimal — czy to faktycznie jest minimal?”
+Sprawdź, czy finalny artefakt naprawdę realizuje zadeklarowany kierunek, a nie instynktowny default. Pytanie: „obiecałem minimal — czy to faktycznie jest minimal?”

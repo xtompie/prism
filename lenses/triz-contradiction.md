@@ -1,6 +1,6 @@
 ---
 name: triz-contradiction
-when: utknales w trade-offie „albo X, albo Y”
-when_not: nie ma realnej sprzecznosci
+when: utknąłeś w trade-offie „albo X, albo Y”
+when_not: nie ma realnej sprzeczności
 ---
-Nazwij sprzecznosc (poprawic X bez pogorszenia Y) i szukaj rozwiazania, ktore ja znosi, zamiast szukac kompromisu. Pytanie: „jak dostac oba, zmieniajac wymiar problemu?”
+Nazwij sprzeczność (poprawić X bez pogorszenia Y) i szukaj rozwiązania, które ją znosi, zamiast szukać kompromisu. Pytanie: „jak dostać oba, zmieniając wymiar problemu?”

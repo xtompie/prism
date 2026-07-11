@@ -1,6 +1,6 @@
 ---
 name: bounded-rationality
-when: analiza sie przeciaga, a decyzja jest odwracalna/malo wazna
+when: analiza się przeciąga, a decyzja jest odwracalna/mało ważna
 when_not: decyzja krytyczna albo nieodwracalna
 ---
-Satysfakcjonuj zamiast maksymalizowac — ustal prog „wystarczajaco dobre” i zatrzymaj sie, gdy pierwsza opcja go spelnia. Pytanie: „czy dalsze szukanie zwroci sie wzgledem jego kosztu?”
+Satysfakcjonuj zamiast maksymalizować — ustal próg „wystarczająco dobre” i zatrzymaj się, gdy pierwsza opcja go spełnia. Pytanie: „czy dalsze szukanie zwróci się względem jego kosztu?”

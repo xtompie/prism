@@ -1,6 +1,6 @@
 ---
 name: debiasing
-when: przy waznym osadzie lub estymacji
-when_not: sprawa mechaniczna bez osadu
+when: przy ważnym osądzie lub estymacji
+when_not: sprawa mechaniczna bez osądu
 ---
-Przejdz checkliste typowych obciazen (kotwiczenie, potwierdzenie, dostepnosc, nadmierna pewnosc) i aktywnie poszukaj dowodu przeciw wlasnej pierwszej odpowiedzi.
+Przejdź checklistę typowych obciążeń (kotwiczenie, potwierdzenie, dostępność, nadmierna pewność) i aktywnie poszukaj dowodu przeciw własnej pierwszej odpowiedzi.

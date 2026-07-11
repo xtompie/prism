@@ -1,6 +1,6 @@
 ---
 name: hanlons-razor
-when: tlumaczysz cudze (lub systemu) zachowanie
-when_not: masz dowod celowego dzialania
+when: tłumaczysz cudze (lub systemu) zachowanie
+when_not: masz dowód celowego działania
 ---
-Nie przypisuj zlej woli temu, co wystarczajaco tlumaczy blad, niewiedza lub przypadek. Pytanie: „czy to sabotaz, czy zwykla pomylka/niedopatrzenie?”
+Nie przypisuj złej woli temu, co wystarczająco tłumaczy błąd, niewiedza lub przypadek. Pytanie: „czy to sabotaż, czy zwykła pomyłka/niedopatrzenie?”

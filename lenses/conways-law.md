@@ -1,6 +1,6 @@
 ---
 name: conways-law
-when: projektujesz architekture lub diagnozujesz jej dziwnosci
+when: projektujesz architekturę lub diagnozujesz jej dziwności
 when_not: brak wymiaru organizacyjnego
 ---
-Struktura systemu odbija strukture komunikacji organizacji, ktora go tworzy. Pytanie: „czy ten podzial to wybor techniczny, czy odcisk schematu zespolow?”
+Struktura systemu odbija strukturę komunikacji organizacji, która go tworzy. Pytanie: „czy ten podział to wybór techniczny, czy odcisk schematu zespołów?”

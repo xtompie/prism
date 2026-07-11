@@ -1,6 +1,6 @@
 ---
 name: commit-to-an-extreme
-when: start pracy tworczej, gdy grozi bezpieczna, letnia srednia
-when_not: wymagana neutralnosc/konwencja
+when: start pracy twórczej, gdy grozi bezpieczna, letnia średnia
+when_not: wymagana neutralność/konwencja
 ---
-Wybierz jeden skrajny kierunek (brutalistyczny / luksusowy / editorial / zabawkowy...) i zobowiaz sie do niego, zanim powstanie pierwsza linijka. Kompromis rozmywa charakter.
+Wybierz jeden skrajny kierunek (brutalistyczny / luksusowy / editorial / zabawkowy...) i zobowiąż się do niego, zanim powstanie pierwsza linijka. Kompromis rozmywa charakter.
