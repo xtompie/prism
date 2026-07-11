@@ -1,6 +1,6 @@
 ---
 name: principle-of-least-astonishment
-when: Gdy projektujesz interfejs, nazwę lub zachowanie dla użytkownika
-when_not: Gdy celowo łamiesz konwencję dla ważnego, świadomego efektu
+when: When you design an interface, name, or behavior for a user
+when_not: When you deliberately break convention for a deliberate, important effect
 ---
-Zachowanie powinno być takie, jakiego rozsądny użytkownik się spodziewa. Zapytaj: co użytkownik intuicyjnie tutaj założy — i czy dokładnie to dostaje?
+Behavior should match what a reasonable user expects. Ask: what will the user intuitively assume here — and is that exactly what they get?

@@ -1,6 +1,6 @@
 ---
 name: simpsons-paradox
-when: wnioskujesz z danych zagregowanych (średnia, wskaźnik ogólny, jeden słupek)
-when_not: populacja jednorodna, brak istotnych podgrup mieszających wynik
+when: You're drawing conclusions from aggregated data (an average, an overall rate, a single bar).
+when_not: The population is homogeneous, with no meaningful subgroups mixing the result.
 ---
-Trend widoczny w całości potrafi się odwrócić wewnątrz podgrup — agregat kłamie, gdy miesza różne populacje w różnych proporcjach. Pytanie: „czy po rozbiciu na sensowne podgrupy kierunek się utrzymuje, czy odwraca?”
+A trend visible in the whole can reverse inside subgroups — the aggregate lies when it mixes different populations in different proportions. Ask: when broken into meaningful subgroups, does the direction hold or flip?

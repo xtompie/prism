@@ -1,6 +1,6 @@
 ---
 name: option-diversity
-when: zanim zaczniesz cokolwiek budować/pisać
-when_not: rozwiązanie jest jedno-oczywiste i wymuszone
+when: before you start building/writing anything
+when_not: the solution is single-obvious and forced
 ---
-Wymuś 2-3 realnie różne podejścia (nie warianty tego samego) i dopiero potem wybieraj. Pytanie: „jaka jest trzecia, zupełnie inna droga do tego celu?”
+Force 2-3 genuinely different approaches (not variants of the same one) and only then choose. Ask: "what's a third, completely different path to this goal?"

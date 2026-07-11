@@ -1,6 +1,6 @@
 ---
 name: impact-effort
-when: masz listę zadań/opcji i ograniczony czas
-when_not: jedno zadanie, brak wyboru
+when: you have a list of tasks/options and limited time
+when_not: a single task, no choice
 ---
-Uszereguj po stosunku wpływu do wysiłku; rób najpierw high-impact/low-effort, kwestionuj low-impact/high-effort. Pytanie: „co daje najwięcej za najmniej?”
+Rank by impact-to-effort ratio; do high-impact/low-effort first, question low-impact/high-effort. The question: "what gives the most for the least?"

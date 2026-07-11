@@ -1,6 +1,6 @@
 ---
 name: greshams-law
-when: gorsza i lepsza wersja czegoś krążą obok siebie, traktowane jak równoważne
-when_not: jakość jest widocznie rozróżniana i nagradzana — wtedy lepsze wygrywa samo
+when: a worse and a better version of something circulate side by side, treated as equivalent
+when_not: quality is visibly distinguished and rewarded — then the better wins on its own
 ---
-Gdy tanie/gorsze i cenne/lepsze są wymuszenie traktowane jak równe, ludzie „wydają” gorsze a chomikują lepsze — i gorsze wypiera lepsze z obiegu (bylejakość, tania treść, pośpieszne decyzje). Pytanie: „czy mój system nie zrównuje jakości tak, że opłaca się dostarczać najgorszą dopuszczalną wersję?”
+When the cheap/worse and the valuable/better are forced to be treated as equal, people "spend" the worse and hoard the better — and the worse drives the better out of circulation (shoddiness, cheap content, rushed decisions). The question: "does my system flatten quality so that shipping the worst acceptable version pays off?"

@@ -1,6 +1,6 @@
 ---
 name: reversibility
-when: ważysz jak szybko/ostrożnie podjąć decyzję
-when_not: decyzja błaha
+when: you're weighing how fast/carefully to make a decision
+when_not: the decision is trivial
 ---
-Sprawdź, czy to drzwi jednokierunkowe czy dwukierunkowe. Odwracalne → działaj szybko, ucz się w biegu. Nieodwracalne → zwolnij, zbierz więcej danych, zważ.
+Check whether it's a one-way or two-way door. Reversible → move fast, learn as you go. Irreversible → slow down, gather more data, weigh it.

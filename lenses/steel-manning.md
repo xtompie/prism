@@ -1,6 +1,6 @@
 ---
 name: steel-manning
-when: chcesz odrzucić jakieś podejście albo argument
-when_not: stanowisko przeciwne jest ewidentnie w złej wierze
+when: You want to reject some approach or argument.
+when_not: The opposing position is plainly in bad faith.
 ---
-Zbuduj NAJSILNIEJSZĄ możliwą wersję przeciwnego stanowiska — lepszą niż jego autor. Dopiero jeśli i tak upada, odrzuć je.
+Build the STRONGEST possible version of the opposing position — better than its author made it. Only if it still falls, reject it.

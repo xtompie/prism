@@ -1,6 +1,6 @@
 ---
 name: how-might-we
-when: Gdy problem jest sformułowany jako blokada lub skarga
-when_not: Gdy rozwiązanie jest już oczywiste i trzeba je tylko wykonać
+when: When the problem is framed as a blocker or a complaint
+when_not: When the solution is already obvious and just needs executing
 ---
-Przekształć problem w otwarte pytanie "jak moglibyśmy...". Zapytaj: jak przeformułować tę przeszkodę w zaproszenie do pomysłów — ani za wąsko, ani zbyt ogólnie?
+Turn the problem into an open "how might we..." question. Ask: how do I reframe this obstacle as an invitation for ideas — neither too narrow nor too broad?

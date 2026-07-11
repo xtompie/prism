@@ -1,149 +1,149 @@
-# Prism — INDEX soczewek
+# Prism — lens INDEX
 
-Menu do skanowania: wybierz TYLE soczewek, ile problem realnie wymaga (1–2 dla prostych, wiecej dla zawilych) — dopasuj do zlozonosci, bez sztywnej liczby.
-To nie granica — stosuj tez soczewki spoza listy (z glowy / z internetu) i dopisuj nowe.
+Menu to scan: pick AS MANY lenses as the problem really needs (1–2 for simple, more for tangled) — match it to complexity, no fixed number.
+Not a boundary — also use lenses beyond this list (from the model's head / the internet) and add new ones.
 
-Soczewek: 140
+Lenses: 140
 
-| soczewka | kiedy uzyc |
-|----------|-----------|
-| `10x-thinking` | Utknąłeś w drobnych usprawnieniach; chcesz wymusić inne podejście, nie szlif obecnego. |
-| `abstraction-laddering` | nie wiesz, czy rozwiązujesz właściwy problem |
-| `amaras-law` | Oceniasz wpływ nowej technologii, trendu lub zmiany w czasie. |
-| `analogical-thinking` | Gdy problem wydaje się nowy i nie masz gotowego podejścia |
-| `anchoring` | Gdy pierwsza liczba lub propozycja kształtuje Twoją ocenę |
-| `antifragility` | Gdy projektujesz coś pod niepewność, zmienność i wstrząsy |
-| `assumption-reversal` | Pomysły wyczerpane, wszystkie warianty brzmią podobnie; szukasz świeżego kierunku. |
-| `ban-second-order-defaults` | pierwsze zakazy nie usunęły sztampy |
-| `barbell-strategy` | Gdy alokujesz zasoby lub ryzyko pod dużą niepewność |
-| `batna` | Gdy negocjujesz lub wchodzisz w porozumienie z drugą stroną |
-| `bayesian` | oceniasz prawdopodobieństwo/ryzyko przy niepełnych danych |
-| `betteridges-law` | napotykasz nagłówek lub tezę postawioną jako pytanie („Czy X to przełom?”) |
-| `bikeshedding` | Dyskusja/przegląd grzęźnie; dużo energii idzie na jeden temat. |
-| `bind-output-to-intent` | tuż przed oddaniem wyniku pracy twórczej |
-| `bisociation` | szukasz naprawdę nowego pomysłu, a warianty w obrębie dziedziny się wyczerpały |
-| `bounded-rationality` | analiza się przeciąga, a decyzja jest odwracalna/mało ważna |
-| `braess-paradox` | chcesz poprawić przepływ lub wydajność systemu, dokładając zasób, drogę albo opcję |
-| `brandolinis-law` | Ważysz, czy prostować błędne twierdzenie / słaby argument / bałagan. |
-| `chain-of-verification` | Gdy output zawiera fakty lub liczby, które mogą być zmyślone |
-| `chestertons-fence` | Zanim usuniesz lub zmienisz istniejące rozwiązanie, regułę albo kod |
-| `circle-of-competence` | wchodzisz w obszar, w którym nie jesteś pewny wiedzy |
-| `commanders-intent` | delegujesz zadanie lub piszesz spec w warunkach, gdzie szczegóły się zmienią |
-| `commit-to-an-extreme` | start pracy twórczej, gdy grozi bezpieczna, letnia średnia |
-| `comparative-advantage` | Dzielisz pracę/zadania między ludzi, narzędzia lub własny czas. |
-| `concede-first` | przekonujesz wroga lub sceptyczną widownię do kontrariańskiego twierdzenia |
-| `constraint-relaxation` | przestrzeń rozwiązań wydaje się zamknięta przez „to niemożliwe, bo X” |
-| `constraints-first` | zaczynasz projektować rozwiązanie |
-| `conways-law` | projektujesz architekturę lub diagnozujesz jej dziwności |
-| `cunninghams-law` | Trudno wydobyć odpowiedź/wiedzę pytając wprost; cisza w odpowiedzi na pytanie. |
-| `cynefin` | nie wiesz, czy planować, analizować, eksperymentować czy gasić pożar |
-| `debiasing` | przy ważnym osądzie lub estymacji |
-| `defense-in-depth` | Stawka wysoka, a pojedynczy mechanizm może zawieść (bezpieczeństwo, jakość, niezawodność). |
-| `define-the-edge` | pozycjonujesz narzędzie/rozwiązanie i kusi „nadaje się do wszystkiego” |
-| `dialectic` | Dwie tezy wydają się sprzeczne i wybierasz jedną, tracąc coś cennego z drugiej. |
-| `dichotomy-of-control` | Napięcie, frustracja lub rozproszenie wysiłku między to, na co masz wpływ, a to, na co nie. |
-| `diminishing-returns` | Gdy dokładasz kolejne jednostki wysiłku lub zasobu do tego samego |
-| `dual-process` | decyzja „na czuja” przy wysokiej stawce |
-| `effectuation` | niepewność, gdy nie da się zaplanować od celu |
-| `eisenhower-matrix` | Gdy masz przeładowaną listę zadań i musisz priorytetyzować |
-| `emergence` | Zachowanie całości zaskakuje, choć każdy element z osobna wydaje się prosty/poprawny. |
-| `evidence-before-claims` | zanim ogłosisz „gotowe / działa / przechodzi” |
-| `expected-value` | Gdy wybierasz między opcjami o niepewnych wynikach |
-| `externalities` | Oceniasz decyzję, której koszty lub korzyści spadają na kogoś spoza niej. |
-| `fail-safe-vs-fail-secure` | Projektujesz, co ma się stać w razie awarii/braku decyzji — jaki jest stan domyślny przy porażce. |
-| `fermi-estimation` | potrzebujesz szybkiego rzędu wielkości, nie dokładnej liczby |
-| `first-principles` | problem obrósł w założenia przejęte przez analogię albo „bo tak się robi” |
-| `five-whys` | masz objaw/awarię i chcesz przyczynę źródłową, nie plaster |
-| `galls-law` | Gdy projektujesz złożony system lub proces od podstaw |
-| `goodharts-law` | Gdy definiujesz metrykę, cel lub KPI, którym ktoś będzie sterowany |
-| `greshams-law` | gorsza i lepsza wersja czegoś krążą obok siebie, traktowane jak równoważne |
-| `hanlons-razor` | tłumaczysz cudze (lub systemu) zachowanie |
-| `hofstadters-law` | szacujesz czas lub wysiłek zadania, zwłaszcza złożonego lub nowego |
-| `homeostasis` | wprowadzasz zmianę do układu, który sam się reguluje (zespół, rynek, organizm, proces) |
-| `how-might-we` | Gdy problem jest sformułowany jako blokada lub skarga |
-| `hyrums-law` | Gdy zmieniasz API, interfejs lub format, na którym ktoś polega |
-| `impact-effort` | masz listę zadań/opcji i ograniczony czas |
-| `inversion` | planujesz coś, gdzie optymizm może chować ryzyka |
-| `issue-trees` | problem jest duży/mglisty i trzeba go rozłożyć |
-| `jevons-paradox` | zwiększasz wydajność lub obniżasz koszt zużycia zasobu (czas, pieniądz, energia, uwaga) |
-| `jobs-to-be-done` | projektujesz produkt/feature/API dla użytkownika |
-| `kepner-tregoe` | trudny bug/incydent i mnóstwo możliwych przyczyn |
-| `kernighans-law` | kusi Cię najsprytniejsze, maksymalnie zmyślne rozwiązanie na granicy Twoich możliwości |
-| `ladder-of-inference` | szybko doszedłeś do wniosku i chcesz sprawdzić, czy nie za szybko |
-| `law-of-the-instrument` | Gdy odruchowo sięgasz po znane narzędzie lub podejście |
-| `leverage-points` | chcesz zmienić zachowanie systemu, ale masz mało siły przebicia |
-| `lindy` | wybierasz fundament/technologię na długo |
-| `linus-law` | chcesz wyłapać błędy lub wady w swojej pracy (kod, tekst, plan, decyzja) |
-| `local-vs-global-optimum` | Gdy optymalizujesz i utknąłeś na "całkiem niezłym" wyniku |
-| `map-territory` | opierasz się na modelu, diagramie, metryce albo abstrakcji |
-| `margin-of-safety` | projektujesz coś, co musi wytrzymać nieznane/skrajne warunki |
-| `means-ends-analysis` | Duży dystans między stanem obecnym a celem; potrzeba systematycznego domykania luki. |
-| `model-combination` | jeden model daje podejrzanie czystą odpowiedź |
-| `model-selection` | problem jest wielowymiarowy i jedna soczewka nie wystarcza |
-| `morphological-analysis` | projektujesz coś o wielu wymiarach i chcesz pokryć pełną przestrzeń wariantów |
-| `name-the-failure-mode` | praca twórcza (UI, tekst, nazwa) — grozi sztampa |
-| `negative-examples` | Gdy definiujesz oczekiwany wynik, styl lub zakres |
-| `oblique-strategies` | Gdy utknąłeś i myślenie kręci się w tej samej koleinie |
-| `occams-razor` | masz kilka konkurencyjnych wyjaśnień albo rozwiązań |
-| `ooda` | sytuacja jest płynna i szybko się zmienia |
-| `opportunity-cost` | wybierasz jedną z kilku dróg przy ograniczonym czasie/zasobach |
-| `option-diversity` | zanim zaczniesz cokolwiek budować/pisać |
-| `pareto-principle` | Gdy nakład rozkłada się równo na wiele rzeczy o różnej wadze |
-| `parkinsons-law` | Gdy planujesz czas, zakres pracy lub przydział zasobów |
-| `path-dependence` | Rozumiesz, czemu coś ma dziwny kształt, albo projektujesz decyzję o długim ogonie. |
-| `perverse-incentives` | Gdy wprowadzasz nagrodę, karę lub regułę mającą zmienić zachowanie |
-| `plan-then-execute` | Zadanie wieloetapowe, gdzie skok w robotę grozi błądzeniem i poprawkami. |
-| `poka-yoke` | Gdy projektujesz proces lub interfejs podatny na ludzki błąd |
-| `positive-sum-framing` | Gdy widzisz sytuację jako walkę o stały, dzielony tort |
-| `postels-law` | Gdy projektujesz interfejs przyjmujący dane wejściowe z zewnątrz |
-| `pre-mortem` | przed pełnym projektem, launchem albo nieodwracalną decyzją |
-| `principal-agent-problem` | Ktoś (lub coś) działa w twoim imieniu, a jego interesy mogą się rozjeżdżać z twoimi. |
-| `principle-of-least-astonishment` | Gdy projektujesz interfejs, nazwę lub zachowanie dla użytkownika |
-| `prior-art-failure-hunt` | budujesz/projektujesz coś, czego nie robiłeś na pamięć wiele razy |
-| `probabilistic` | przyszłość jest niepewna, a Ty myślisz jednym scenariuszem |
-| `quit-thinking-and-look` | bug/awaria, zanim zaczniesz zgadywać przyczynę |
-| `red-team` | system/plan ma przetrwać atak, nadużycie albo obejście |
-| `reductio-ad-absurdum` | Chcesz sprawdzić założenie/regułę/argument bez budowania dowodu wprost. |
-| `reference-class-forecasting` | Gdy szacujesz czas, koszt lub wynik nowego przedsięwzięcia |
-| `regret-minimization` | duża, osobista albo długoterminowa decyzja |
-| `requisite-variety` | Coś ma kontrolować/obsłużyć zmienne otoczenie (proces, test, zespół, interfejs, obrona). |
-| `restate-the-problem` | Kręcisz się w kółko; obecne sformułowanie problemu narzuca ślepe rozwiązania. |
-| `reverse-prompting` | Gdy zadanie jest niedookreślone, a błędne założenia kosztowne |
-| `reversibility` | ważysz jak szybko/ostrożnie podjąć decyzję |
-| `role-assignment` | chcesz odblokować konkretny tryb myślenia lub standard oceny |
-| `rubber-duck` | utknąłeś w problemie lub błędzie, którego nie potrafisz zlokalizować |
-| `rubric-first` | Gdy masz tworzyć output bez jasno zdefiniowanych kryteriów jakości |
-| `sagan-standard` | Gdy oceniasz twierdzenie odbiegające od tego, co dobrze ustalone |
-| `scamper` | trzeba wygenerować warianty istniejącego rozwiązania |
-| `scenario-planning` | planujesz w warunkach głębokiej niepewności co do przyszłości |
-| `schelling-point` | Gdy strony muszą się skoordynować bez możliwości komunikacji |
-| `scientific-method` | masz hipotezę/założenie, na którym oprzesz dużo pracy |
-| `second-order` | decyzja ma skutki uboczne albo sprzężenia w czasie |
-| `self-consistency` | Odpowiedź/estymata jest zawodna, a istnieje wiele niezależnych dróg do niej. |
-| `self-critique-pass` | Gdy skończyłeś draft i masz go oddać jako gotowy |
-| `show-your-reasoning` | grozi Ci odpowiedź „z automatu”, a sprawa realnie wymaga rozumowania |
-| `simpsons-paradox` | wnioskujesz z danych zagregowanych (średnia, wskaźnik ogólny, jeden słupek) |
-| `six-hats` | ocena pomysłu, gdy grozi jednostronność |
-| `skin-in-the-game` | Gdy ktoś doradza lub decyduje o skutkach ponoszonych przez innych |
-| `socratic` | coś „wiadomo”, że jest prawdą, ale nikt tego nie sprawdził |
-| `solve-a-simpler-problem` | Problem jest zbyt duży/ogólny by go ruszyć; nie wiesz od czego zacząć. |
-| `steel-manning` | chcesz odrzucić jakieś podejście albo argument |
-| `streetlight-effect` | Gdy szukasz odpowiedzi lub danych tam, gdzie szukać najłatwiej |
-| `sturgeons-law` | Oceniasz zbiór opcji, przykładów, dostawców, źródeł — i chcesz ustawić oczekiwania. |
-| `sunk-cost` | Gdy trzymasz się kursu, bo już dużo w niego włożono |
-| `survivorship-bias` | Gdy wyciągasz wnioski z widocznych sukcesów lub ocalałych przykładów |
-| `system-archetypes` | problem uporczywie wraca mimo napraw |
-| `systems` | wiele ruchomych części wpływa na siebie nawzajem |
-| `ten-ten-ten` | Gdy decyzja jest napędzana chwilową emocją lub presją |
-| `theory-of-constraints` | system jest wolny/zapchany i nie wiesz co optymalizować |
-| `thought-experiment` | utknąłeś albo chcesz sprawdzić granice pomysłu |
-| `time-discounting` | Wybór między korzyścią teraz a większą później (dług, zdrowie, jakość vs deadline). |
-| `tipping-point` | Zmiana wydaje się liniowa, ale możliwe są progi, po których wszystko przeskakuje naraz. |
-| `tit-for-tat` | Gdy budujesz strategię w powtarzalnej relacji lub współpracy |
-| `triz-contradiction` | utknąłeś w trade-offie „albo X, albo Y” |
-| `ulysses-pact` | Gdy wiesz, że przyszłe "ja" ulegnie pokusie lub słabości |
-| `veil-of-ignorance` | Projektujesz regułę/podział/system, a masz w nim własny interes lub znaną pozycję. |
-| `via-negativa` | system spuchł, komplikacja rośnie, „dodajmy jeszcze to” |
-| `what-would-have-to-be-true` | Gdy strony forsują sprzeczne opcje i spór grzęźnie |
-| `work-backwards` | Cel jest jasny, ale droga do niego mglista; utknąłeś idąc od stanu obecnego. |
-| `yagni` | Gdy kusi Cię dodać funkcję lub abstrakcję "na przyszłość" |
+| lens | when to use |
+|------|-------------|
+| `10x-thinking` | You're stuck on minor tweaks; you want to force a different approach, not polish the current one. |
+| `abstraction-laddering` | you're not sure you're solving the right problem |
+| `amaras-law` | You're assessing the impact of a new technology, trend, or change over time. |
+| `analogical-thinking` | When the problem seems new and you have no ready approach |
+| `anchoring` | When the first number or proposal shapes your judgment |
+| `antifragility` | When you're designing something for uncertainty, volatility, and shocks |
+| `assumption-reversal` | Ideas exhausted, all variants sound alike; you're looking for a fresh direction. |
+| `ban-second-order-defaults` | the first bans didn't remove the cliché |
+| `barbell-strategy` | When you're allocating resources or risk under high uncertainty |
+| `batna` | When you're negotiating or entering an agreement with another party |
+| `bayesian` | you're assessing probability/risk with incomplete data |
+| `betteridges-law` | you hit a headline or claim posed as a question ("Is X a breakthrough?") |
+| `bikeshedding` | A discussion/review is bogging down; lots of energy goes to one topic. |
+| `bind-output-to-intent` | right before delivering a piece of creative work |
+| `bisociation` | you're after a truly new idea and variants within the domain are exhausted |
+| `bounded-rationality` | analysis is dragging on, and the decision is reversible/low-stakes |
+| `braess-paradox` | you want to improve a system's flow or performance by adding a resource, route, or option |
+| `brandolinis-law` | You're weighing whether to correct a false claim / weak argument / mess. |
+| `chain-of-verification` | When the output contains facts or numbers that could be fabricated |
+| `chestertons-fence` | Before you remove or change an existing solution, rule, or piece of code |
+| `circle-of-competence` | you're entering an area where you're unsure of your knowledge |
+| `commanders-intent` | you're delegating a task or writing a spec where the details will change |
+| `commit-to-an-extreme` | the start of creative work, when a safe, lukewarm average threatens |
+| `comparative-advantage` | You're dividing work/tasks among people, tools, or your own time. |
+| `concede-first` | you're persuading a hostile or skeptical audience of a contrarian claim |
+| `constraint-relaxation` | the solution space seems closed by "it's impossible, because X" |
+| `constraints-first` | you're starting to design a solution |
+| `conways-law` | you're designing an architecture or diagnosing its oddities |
+| `cunninghams-law` | Hard to extract an answer or knowledge by asking directly; silence in response to a question. |
+| `cynefin` | you don't know whether to plan, analyze, experiment, or fight a fire |
+| `debiasing` | at an important judgment or estimate |
+| `defense-in-depth` | Stakes are high and a single mechanism can fail (security, quality, reliability). |
+| `define-the-edge` | you're positioning a tool/solution and tempted to say "good for everything" |
+| `dialectic` | Two claims seem contradictory and you pick one, losing something valuable from the other. |
+| `dichotomy-of-control` | Tension, frustration, or scattered effort between what you can influence and what you can't. |
+| `diminishing-returns` | When you keep adding units of effort or resource to the same thing |
+| `dual-process` | a gut-feel decision at high stakes |
+| `effectuation` | uncertainty, where you can't plan backward from a goal |
+| `eisenhower-matrix` | When you have an overloaded task list and must prioritize |
+| `emergence` | The whole's behavior surprises you, even though each element alone seems simple/correct. |
+| `evidence-before-claims` | before you declare "done / works / passes" |
+| `expected-value` | When you're choosing between options with uncertain outcomes |
+| `externalities` | You're judging a decision whose costs or benefits fall on someone outside it. |
+| `fail-safe-vs-fail-secure` | You're designing what happens on failure/no-decision — the default state under failure. |
+| `fermi-estimation` | you need a quick order of magnitude, not an exact number |
+| `first-principles` | the problem is encrusted with assumptions taken by analogy or "because that's how it's done" |
+| `five-whys` | you have a symptom/failure and want the root cause, not a band-aid |
+| `galls-law` | When you're designing a complex system or process from scratch |
+| `goodharts-law` | When you define a metric, target, or KPI that someone will be steered by |
+| `greshams-law` | a worse and a better version of something circulate side by side, treated as equivalent |
+| `hanlons-razor` | you're explaining someone's (or a system's) behavior |
+| `hofstadters-law` | you're estimating the time or effort of a task, especially a complex or new one |
+| `homeostasis` | you introduce a change into a self-regulating system (team, market, organism, process) |
+| `how-might-we` | When the problem is framed as a blocker or a complaint |
+| `hyrums-law` | When you change an API, interface, or format that someone relies on |
+| `impact-effort` | you have a list of tasks/options and limited time |
+| `inversion` | you're planning something where optimism may hide risks |
+| `issue-trees` | the problem is large/fuzzy and needs to be broken down |
+| `jevons-paradox` | you're increasing efficiency or lowering the cost of using a resource (time, money, energy, attention) |
+| `jobs-to-be-done` | you're designing a product/feature/API for a user |
+| `kepner-tregoe` | a hard bug/incident with many possible causes |
+| `kernighans-law` | you're tempted by the cleverest, most ingenious solution at the edge of your ability |
+| `ladder-of-inference` | you reached a conclusion fast and want to check you didn't jump too soon |
+| `law-of-the-instrument` | you reflexively reach for a familiar tool or approach |
+| `leverage-points` | you want to change a system's behavior but have little clout |
+| `lindy` | you're choosing a foundation/technology for the long haul |
+| `linus-law` | you want to catch bugs or flaws in your work (code, text, plan, decision) |
+| `local-vs-global-optimum` | you're optimizing and stuck on a "pretty good" result |
+| `map-territory` | you're relying on a model, diagram, metric, or abstraction |
+| `margin-of-safety` | you're designing something that must survive unknown/extreme conditions |
+| `means-ends-analysis` | a big gap between the current state and the goal; you need to close it systematically |
+| `model-combination` | one model gives a suspiciously clean answer |
+| `model-selection` | the problem is multidimensional and one lens isn't enough |
+| `morphological-analysis` | you're designing something with many dimensions and want to cover the full space of variants |
+| `name-the-failure-mode` | creative work (UI, text, name) — cliché looms |
+| `negative-examples` | you're defining the expected outcome, style, or scope |
+| `oblique-strategies` | you're stuck and your thinking keeps circling the same rut |
+| `occams-razor` | you have several competing explanations or solutions |
+| `ooda` | the situation is fluid and changing fast |
+| `opportunity-cost` | you're choosing one of several paths under limited time/resources |
+| `option-diversity` | before you start building/writing anything |
+| `pareto-principle` | effort is spread evenly across many things of differing weight |
+| `parkinsons-law` | you're planning time, scope of work, or resource allocation |
+| `path-dependence` | you're figuring out why something has a strange shape, or designing a long-tailed decision |
+| `perverse-incentives` | When you introduce a reward, penalty, or rule meant to change behavior |
+| `plan-then-execute` | Multi-step task where diving in risks wandering and rework. |
+| `poka-yoke` | When you design a process or interface prone to human error |
+| `positive-sum-framing` | When you see a situation as a fight over a fixed, shared pie |
+| `postels-law` | When you design an interface that accepts input from outside |
+| `pre-mortem` | before a full project, launch, or irreversible decision |
+| `principal-agent-problem` | Someone (or something) acts on your behalf and their interests may diverge from yours. |
+| `principle-of-least-astonishment` | When you design an interface, name, or behavior for a user |
+| `prior-art-failure-hunt` | building/designing something you haven't done by heart many times |
+| `probabilistic` | the future is uncertain and you're thinking in a single scenario |
+| `quit-thinking-and-look` | a bug/failure, before you start guessing at the cause |
+| `red-team` | a system/plan has to survive attack, abuse, or circumvention |
+| `reductio-ad-absurdum` | You want to test an assumption/rule/argument without building a direct proof. |
+| `reference-class-forecasting` | When you estimate the time, cost, or outcome of a new venture |
+| `regret-minimization` | a big, personal, or long-term decision |
+| `requisite-variety` | Something has to control/handle a variable environment (a process, test, team, interface, defense). |
+| `restate-the-problem` | You're going in circles; the current framing forces blind solutions. |
+| `reverse-prompting` | When the task is underspecified and wrong assumptions are costly |
+| `reversibility` | you're weighing how fast/carefully to make a decision |
+| `role-assignment` | you want to unlock a specific mode of thinking or standard of judgment |
+| `rubber-duck` | you're stuck on a problem or bug you can't pin down |
+| `rubric-first` | When you have to produce an output without clearly defined quality criteria |
+| `sagan-standard` | When you assess a claim that departs from what's well established |
+| `scamper` | you need to generate variants of an existing solution |
+| `scenario-planning` | you're planning under deep uncertainty about the future |
+| `schelling-point` | When parties must coordinate without being able to communicate |
+| `scientific-method` | you have a hypothesis/assumption a lot of work will rest on |
+| `second-order` | a decision has side effects or feedback over time |
+| `self-consistency` | The answer/estimate is unreliable, but many independent paths lead to it. |
+| `self-critique-pass` | You've finished a draft and are about to hand it off as done. |
+| `show-your-reasoning` | You're about to answer on autopilot, but the matter genuinely requires reasoning. |
+| `simpsons-paradox` | You're drawing conclusions from aggregated data (an average, an overall rate, a single bar). |
+| `six-hats` | Evaluating an idea when there's a risk of one-sidedness. |
+| `skin-in-the-game` | Someone advises or decides on outcomes borne by others. |
+| `socratic` | Something is "known" to be true, but no one has actually checked it. |
+| `solve-a-simpler-problem` | The problem is too big/general to grapple with; you don't know where to start. |
+| `steel-manning` | You want to reject some approach or argument. |
+| `streetlight-effect` | You're looking for answers or data where it's easiest to look. |
+| `sturgeons-law` | You're assessing a set of options, examples, vendors, sources — and want to set expectations. |
+| `sunk-cost` | You're sticking to a course because so much has already gone into it. |
+| `survivorship-bias` | You're drawing conclusions from visible successes or surviving examples. |
+| `system-archetypes` | A problem keeps coming back despite fixes. |
+| `systems` | Many moving parts influence each other. |
+| `ten-ten-ten` | The decision is driven by a momentary emotion or pressure. |
+| `theory-of-constraints` | The system is slow/clogged and you don't know what to optimize. |
+| `thought-experiment` | You're stuck or want to probe the limits of an idea. |
+| `time-discounting` | A choice between a benefit now and a larger one later (debt, health, quality vs deadline). |
+| `tipping-point` | Change looks linear, but thresholds are possible where everything flips at once. |
+| `tit-for-tat` | You're building a strategy in a repeated relationship or collaboration. |
+| `triz-contradiction` | You're stuck in an "either X or Y" trade-off. |
+| `ulysses-pact` | You know your future self will give in to temptation or weakness. |
+| `veil-of-ignorance` | You're designing a rule/allocation/system in which you have your own stake or a known position. |
+| `via-negativa` | The system has bloated, complexity is growing, "let's just add this too." |
+| `what-would-have-to-be-true` | Sides are pushing conflicting options and the dispute is bogging down. |
+| `work-backwards` | The goal is clear but the path to it is hazy; you're stuck going forward from the current state. |
+| `yagni` | You're tempted to add a feature or abstraction "for the future." |

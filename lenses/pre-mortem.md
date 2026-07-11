@@ -1,6 +1,6 @@
 ---
 name: pre-mortem
-when: przed pełnym projektem, launchem albo nieodwracalną decyzją
-when_not: drobny, odwracalny krok
+when: before a full project, launch, or irreversible decision
+when_not: minor, reversible step
 ---
-Wyobraź sobie, że za pół roku to spektakularnie padło. Opowiedz historię DLACZEGO — z narracji wyłap konkretne, specyficzne przyczyny (nie ogólniki) i zabezpiecz je z góry.
+Imagine it's six months out and this failed spectacularly. Tell the story of WHY — mine the narrative for concrete, specific causes (not generalities) and guard against them up front.

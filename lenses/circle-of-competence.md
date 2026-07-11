@@ -1,6 +1,6 @@
 ---
 name: circle-of-competence
-when: wchodzisz w obszar, w którym nie jesteś pewny wiedzy
-when_not: jesteś w rdzeniu swojej kompetencji
+when: you're entering an area where you're unsure of your knowledge
+when_not: you're at the core of your competence
 ---
-Wyznacz szczerze granicę tego, co NAPRAWDĘ wiesz. Poza kręgiem nie zgaduj z pewną miną — szukaj eksperta, danych albo prior-art (patrz: prior-art-failure-hunt).
+Honestly mark the boundary of what you REALLY know. Outside the circle, don't guess with a confident face — seek an expert, data, or prior art (see: prior-art-failure-hunt).

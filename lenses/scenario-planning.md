@@ -1,6 +1,6 @@
 ---
 name: scenario-planning
-when: planujesz w warunkach głębokiej niepewności co do przyszłości
-when_not: przyszłość dość przewidywalna albo decyzja szybko i tanio odwracalna
+when: you're planning under deep uncertainty about the future
+when_not: the future is fairly predictable, or the decision is quickly and cheaply reversible
 ---
-Zamiast jednej prognozy zbuduj 2–4 wyraźnie różne, wewnętrznie spójne przyszłości i przetestuj plan pod każdą z nich. Pytanie: „która decyzja trzyma się dobrze we wszystkich scenariuszach, a która działa tylko w jednym z nich?”
+Instead of one forecast, build 2–4 distinctly different, internally consistent futures and test your plan against each. Ask: "which decision holds up across all scenarios, and which works in only one of them?"

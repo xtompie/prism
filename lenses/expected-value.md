@@ -1,6 +1,6 @@
 ---
 name: expected-value
-when: Gdy wybierasz między opcjami o niepewnych wynikach
-when_not: Gdy wynik jest pewny lub dominuje jedna nieodwracalna katastrofa
+when: When you're choosing between options with uncertain outcomes
+when_not: When the outcome is certain, or one irreversible catastrophe dominates
 ---
-Waż każdy możliwy wynik jego prawdopodobieństwem i wielkością wypłaty. Zapytaj: która opcja ma najlepszy iloczyn szans i skutków, a nie tylko najlepszy pojedynczy scenariusz?
+Weight each possible outcome by its probability and its payoff size. Ask: which option has the best product of odds and consequences, not just the best single scenario?

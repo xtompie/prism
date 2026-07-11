@@ -1,6 +1,6 @@
 ---
 name: bisociation
-when: szukasz naprawdę nowego pomysłu, a warianty w obrębie dziedziny się wyczerpały
-when_not: potrzebujesz zbieżności i domknięcia, nie rozbijania ramy
+when: you're after a truly new idea and variants within the domain are exhausted
+when_not: you need convergence and closure, not breaking the frame
 ---
-Zderz świadomie dwie niezwiązane dziedziny lub ramy i szukaj iskry na ich przecięciu — nowość rodzi się z połączenia planów myślowych, które zwykle pozostają rozłączne. Pytanie: „co powstanie, jeśli opiszę ten problem językiem zupełnie obcej dziedziny (kuchni, ewolucji, jazzu)?”
+Deliberately collide two unrelated domains or frames and look for the spark at their intersection — novelty is born from joining planes of thought that normally stay apart. The question: "what emerges if I describe this problem in the language of a completely foreign domain (cooking, evolution, jazz)?"

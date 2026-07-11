@@ -1,6 +1,6 @@
 ---
 name: debiasing
-when: przy ważnym osądzie lub estymacji
-when_not: sprawa mechaniczna bez osądu
+when: at an important judgment or estimate
+when_not: a mechanical matter with no judgment involved
 ---
-Przejdź checklistę typowych obciążeń (kotwiczenie, potwierdzenie, dostępność, nadmierna pewność) i aktywnie poszukaj dowodu przeciw własnej pierwszej odpowiedzi.
+Run the checklist of common biases (anchoring, confirmation, availability, overconfidence) and actively hunt for evidence against your own first answer.

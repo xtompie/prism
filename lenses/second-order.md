@@ -1,6 +1,6 @@
 ---
 name: second-order
-when: decyzja ma skutki uboczne albo sprzężenia w czasie
-when_not: efekt jest lokalny, jednorazowy i izolowany
+when: a decision has side effects or feedback over time
+when_not: the effect is local, one-off, and isolated
 ---
-Zapytaj „a co potem?” 2–3 razy: policz skutki skutków. Szukaj efektów ubocznych, zachęt, które się wypaczą, i pętli, które się wzmacniają.
+Ask "and then what?" 2–3 times: trace the effects of the effects. Look for side effects, incentives that get distorted, and loops that reinforce themselves.

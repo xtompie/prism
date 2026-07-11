@@ -1,6 +1,6 @@
 ---
 name: what-would-have-to-be-true
-when: Gdy strony forsują sprzeczne opcje i spór grzęźnie
-when_not: Gdy wybór jest oczywisty i bezsporny
+when: Sides are pushing conflicting options and the dispute is bogging down.
+when_not: The choice is obvious and uncontested.
 ---
-Zamiast pytać "która opcja jest słuszna", pytaj o warunki jej słuszności. Zapytaj: co musiałoby być prawdą, żeby ta opcja okazała się najlepszym wyborem?
+Instead of asking "which option is right," ask about the conditions for it being right. Ask: what would have to be true for this option to turn out to be the best choice?

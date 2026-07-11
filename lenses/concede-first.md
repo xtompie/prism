@@ -1,6 +1,6 @@
 ---
 name: concede-first
-when: przekonujesz wroga lub sceptyczną widownię do kontrariańskiego twierdzenia
-when_not: widownia już przychylna albo stawka niska
+when: you're persuading a hostile or skeptical audience of a contrarian claim
+when_not: the audience is already favorable or the stakes are low
 ---
-Najpierw zapłać depozyt wiarygodności: nazwij wspólny grunt i najsilniejsze racje drugiej strony, DOPIERO potem postaw swoje twierdzenie. Kolejność decyduje — ten sam argument przed depozytem czyta się jako hype, po depozycie jako zasłużona konkluzja.
+First pay a credibility deposit: name the common ground and the other side's strongest points, and ONLY THEN state your claim. Order decides — the same argument reads as hype before the deposit, and as an earned conclusion after it.

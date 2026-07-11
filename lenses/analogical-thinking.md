@@ -1,6 +1,6 @@
 ---
 name: analogical-thinking
-when: Gdy problem wydaje się nowy i nie masz gotowego podejścia
-when_not: Gdy analogia zaciera istotne różnice i zaczyna mylić
+when: When the problem seems new and you have no ready approach
+when_not: When the analogy blurs important differences and starts to mislead
 ---
-Znajdź inną dziedzinę lub naturę, która rozwiązała strukturalnie podobny problem. Zapytaj: co to przypomina gdzie indziej — i jak tam sobie z tym poradzono?
+Find another domain or nature that solved a structurally similar problem. Ask: what does this resemble elsewhere — and how was it handled there?

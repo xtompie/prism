@@ -1,6 +1,6 @@
 ---
 name: conways-law
-when: projektujesz architekturę lub diagnozujesz jej dziwności
-when_not: brak wymiaru organizacyjnego
+when: you're designing an architecture or diagnosing its oddities
+when_not: there's no organizational dimension
 ---
-Struktura systemu odbija strukturę komunikacji organizacji, która go tworzy. Pytanie: „czy ten podział to wybór techniczny, czy odcisk schematu zespołów?”
+A system's structure mirrors the communication structure of the organization that builds it. The question: "is this split a technical choice, or an imprint of the team layout?"

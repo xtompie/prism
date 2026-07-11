@@ -1,6 +1,6 @@
 ---
 name: commit-to-an-extreme
-when: start pracy twórczej, gdy grozi bezpieczna, letnia średnia
-when_not: wymagana neutralność/konwencja
+when: the start of creative work, when a safe, lukewarm average threatens
+when_not: neutrality/convention is required
 ---
-Wybierz jeden skrajny kierunek (brutalistyczny / luksusowy / editorial / zabawkowy...) i zobowiąż się do niego, zanim powstanie pierwsza linijka. Kompromis rozmywa charakter.
+Pick one extreme direction (brutalist / luxury / editorial / playful...) and commit to it before the first line is written. Compromise blurs character.

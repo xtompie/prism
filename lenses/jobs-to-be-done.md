@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done
-when: projektujesz produkt/feature/API dla użytkownika
-when_not: problem czysto techniczny bez użytkownika
+when: you're designing a product/feature/API for a user
+when_not: a purely technical problem with no user
 ---
-Zapytaj, jakie „zadanie” użytkownik naprawdę „zatrudnia” to do wykonania. Projektuj pod to zadanie, nie pod wyobrażony feature.
+Ask what "job" the user is really "hiring" this to do. Design for that job, not for an imagined feature.

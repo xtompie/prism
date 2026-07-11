@@ -1,6 +1,6 @@
 ---
 name: plan-then-execute
-when: Zadanie wieloetapowe, gdzie skok w robotę grozi błądzeniem i poprawkami.
-when_not: Zadanie trywialne, eksploracyjne lub tak zmienne, że plan zdezaktualizuje się natychmiast.
+when: Multi-step task where diving in risks wandering and rework.
+when_not: Trivial, exploratory, or so volatile that any plan goes stale instantly.
 ---
-Rozdziel dwie tryby: najpierw ułóż i przejrzyj cały plan, dopiero potem go wykonuj — planowanie i wykonanie mieszane obniża jakość obu. Czy mam kompletny szkic kroków, który wytrzyma krytykę, zanim zacznę je realizować?
+Separate the two modes: draft and review the whole plan first, only then execute — mixing planning with doing degrades both. Do I have a complete outline of steps that survives scrutiny before I start carrying them out?

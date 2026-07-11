@@ -1,6 +1,6 @@
 ---
 name: model-combination
-when: jeden model daje podejrzanie czystą odpowiedź
-when_not: problem wąski, jedna soczewka wystarcza
+when: one model gives a suspiciously clean answer
+when_not: the problem is narrow, one lens suffices
 ---
-Spójrz na problem przez kilka soczewek naraz i trianguluj — szukaj miejsc, gdzie wnioski się zbiegają lub kłócą. Pytanie: „co widzą inne modele, których ten pomija?”
+Look at the problem through several lenses at once and triangulate — find where conclusions converge or clash. Ask: "what do other models see that this one misses?"

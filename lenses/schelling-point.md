@@ -1,6 +1,6 @@
 ---
 name: schelling-point
-when: Gdy strony muszą się skoordynować bez możliwości komunikacji
-when_not: Gdy można swobodnie ustalić rozwiązanie zwykłą rozmową
+when: When parties must coordinate without being able to communicate
+when_not: When you can freely settle the solution through ordinary conversation
 ---
-Ludzie zbiegają się do naturalnie wyróżnionego, oczywistego punktu. Zapytaj: które rozwiązanie jest tak oczywiste, że każdy zgadnie, że inni też je wybiorą?
+People converge on a naturally salient, obvious point. Ask: which solution is so obvious that everyone will guess the others will pick it too?

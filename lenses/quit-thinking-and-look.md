@@ -1,6 +1,6 @@
 ---
 name: quit-thinking-and-look
-when: bug/awaria, zanim zaczniesz zgadywać przyczynę
-when_not: przyczyna już zaobserwowana i potwierdzona
+when: a bug/failure, before you start guessing at the cause
+when_not: the cause is already observed and confirmed
 ---
-Najpierw zbierz bezpośrednią obserwację (logi, instrumentacja, powtórzenie), dopiero potem stawiaj hipotezy. Zakaz „naprawiania na czuja” bez dowodu na przyczynę.
+Gather direct observation first (logs, instrumentation, a repro), and only then form hypotheses. No "fixing by feel" without evidence of the cause.

@@ -1,6 +1,6 @@
 ---
 name: tipping-point
-when: Zmiana wydaje się liniowa, ale możliwe są progi, po których wszystko przeskakuje naraz.
-when_not: Zależność faktycznie płynna i odwracalna bez progów.
+when: Change looks linear, but thresholds are possible where everything flips at once.
+when_not: The relationship is genuinely smooth and reversible, with no thresholds.
 ---
-Wiele systemów nie reaguje proporcjonalnie: nic, nic, nic — aż przekroczysz masę krytyczną i następuje lawina (adopcja, przeciążenie, panika, kaskada awarii). Gdzie jest próg, po którym mały przyrost daje nieproporcjonalny skutek — i po której jego stronie jestem?
+Many systems don't react proportionally: nothing, nothing, nothing — until you cross a critical mass and an avalanche follows (adoption, overload, panic, failure cascade). Where's the threshold past which a small increment yields a disproportionate effect — and which side of it am I on?

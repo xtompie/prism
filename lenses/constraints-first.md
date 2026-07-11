@@ -1,6 +1,6 @@
 ---
 name: constraints-first
-when: zaczynasz projektować rozwiązanie
-when_not: ograniczenia są znane i trywialne
+when: you're starting to design a solution
+when_not: the constraints are known and trivial
 ---
-ZANIM zaprojektujesz cokolwiek, wypisz twarde ograniczenia (czas, koszt, zależności, wymogi, nienaruszalne). One definiują przestrzeń rozwiązań — projekt bez nich to zgadywanie.
+BEFORE you design anything, list the hard constraints (time, cost, dependencies, requirements, non-negotiables). They define the solution space — a design without them is guessing.

@@ -1,6 +1,6 @@
 ---
 name: lindy
-when: wybierasz fundament/technologię na długo
-when_not: obszar celowo eksperymentalny, świadomie stawiasz na nowe
+when: you're choosing a foundation/technology for the long haul
+when_not: the area is deliberately experimental and you're knowingly betting on the new
 ---
-To, co przetrwało długo, prawdopodobnie przetrwa jeszcze długo. Przy fundamentach faworyzuj sprawdzone nad modne; nowość musi udowodnić, że warta ryzyka.
+What has lasted long will likely last long yet. For foundations, favor the proven over the trendy; novelty must prove it's worth the risk.

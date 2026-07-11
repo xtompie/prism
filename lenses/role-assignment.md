@@ -1,6 +1,6 @@
 ---
 name: role-assignment
-when: chcesz odblokować konkretny tryb myślenia lub standard oceny
-when_not: zadanie wymaga własnego, neutralnego osądu, a nie cudzej ramy
+when: you want to unlock a specific mode of thinking or standard of judgment
+when_not: the task needs your own neutral judgment, not someone else's frame
 ---
-Przyjmij świadomie konkretną rolę lub perspektywę eksperta (śledczy, redaktor, adwokat diabła, audytor bezpieczeństwa) — a razem z nią jej pytania, standardy i odruchy. Pytanie: „jak spojrzałby na to X i o co zapytałby najpierw?”
+Deliberately adopt a specific role or expert perspective (investigator, editor, devil's advocate, security auditor) — and with it, its questions, standards, and instincts. Ask: "how would X look at this, and what would they ask first?"

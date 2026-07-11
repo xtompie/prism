@@ -1,6 +1,6 @@
 ---
 name: cunninghams-law
-when: Trudno wydobyć odpowiedź/wiedzę pytając wprost; cisza w odpowiedzi na pytanie.
-when_not: Ryzyko, że błędna teza zostanie zapamiętana jako prawda lub urazi — środowisko wrażliwe.
+when: Hard to extract an answer or knowledge by asking directly; silence in response to a question.
+when_not: Risk that a wrong claim gets remembered as truth or gives offense — a sensitive setting.
 ---
-Najszybciej dostaniesz poprawną odpowiedź nie zadając pytanie, lecz podając odpowiedź błędną — ludzie chętniej poprawiają niż pomagają od zera. Czy zamiast "jak to zrobić?" nie warto rzucić wiarygodnie brzmiącej wersji do zestrzelenia?
+The fastest way to a correct answer is not to ask a question but to post a wrong answer — people are quicker to correct than to help from scratch. Instead of "how do I do this?", could you float a plausible-sounding version for others to shoot down?

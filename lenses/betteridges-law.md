@@ -1,6 +1,6 @@
 ---
 name: betteridges-law
-when: napotykasz nagłówek lub tezę postawioną jako pytanie („Czy X to przełom?”)
-when_not: pytanie jest szczere i otwarte, a nie zawoalowanym twierdzeniem
+when: you hit a headline or claim posed as a question ("Is X a breakthrough?")
+when_not: the question is sincere and open, not a veiled assertion
 ---
-Twierdzenie ubrane w pytanie zwykle znaczy „nie” — gdyby dowód był mocny, padłoby zdanie oznajmujące. Pytaj: „czemu to sformułowano jako pytanie zamiast stwierdzić wprost — co ukrywa brak twardego dowodu?”
+A claim dressed as a question usually means "no" — if the evidence were strong, it would be stated outright. Ask: "why is this framed as a question instead of asserted directly — what does the lack of hard evidence hide?"

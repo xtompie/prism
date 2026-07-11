@@ -1,6 +1,6 @@
 ---
 name: negative-examples
-when: Gdy definiujesz oczekiwany wynik, styl lub zakres
-when_not: Gdy pozytywna specyfikacja już w pełni określa cel
+when: you're defining the expected outcome, style, or scope
+when_not: the positive spec already fully pins down the goal
 ---
-Pokaż nie tylko czego chcesz, ale wyraźnie czego NIE chcesz. Zapytaj: jakie konkretne anty-przykłady wykluczą najczęstsze złe interpretacje, zanim się pojawią?
+Show not only what you want but explicitly what you do NOT want. Ask: what concrete anti-examples will rule out the most common misinterpretations before they arise?

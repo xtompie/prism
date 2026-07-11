@@ -1,6 +1,6 @@
 ---
 name: ban-second-order-defaults
-when: pierwsze zakazy nie usunęły sztampy
-when_not: wynik już ma wyraźny charakter
+when: the first bans didn't remove the cliché
+when_not: the result already has a distinct character
 ---
-Zauważ, do czego model UCIEKA po zbanowaniu oczywistego defaultu, i zbanuj też tę ucieczkę. Pytanie: „gdzie chowa się slop drugiego rzędu?” (np. po Inter → też Space Grotesk).
+Notice what the model ESCAPES to after you ban the obvious default, and ban that escape too. The question: "where does the second-order slop hide?" (e.g. after Inter → also Space Grotesk).

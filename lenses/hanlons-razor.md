@@ -1,6 +1,6 @@
 ---
 name: hanlons-razor
-when: tłumaczysz cudze (lub systemu) zachowanie
-when_not: masz dowód celowego działania
+when: you're explaining someone's (or a system's) behavior
+when_not: you have evidence of deliberate action
 ---
-Nie przypisuj złej woli temu, co wystarczająco tłumaczy błąd, niewiedza lub przypadek. Pytanie: „czy to sabotaż, czy zwykła pomyłka/niedopatrzenie?”
+Don't attribute to malice what is sufficiently explained by error, ignorance, or chance. The question: "is this sabotage, or just an ordinary mistake/oversight?"

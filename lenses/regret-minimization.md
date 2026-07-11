@@ -1,6 +1,6 @@
 ---
 name: regret-minimization
-when: duża, osobista albo długoterminowa decyzja
-when_not: wybór drobny i odwracalny
+when: a big, personal, or long-term decision
+when_not: the choice is minor and reversible
 ---
-Przenieś się myślą o lata do przodu. Której decyzji będziesz żałować MNIEJ? Żal z zaniechania zwykle boli dłużej niż z próby.
+Project yourself years into the future. Which decision will you regret LESS? Regret from inaction usually hurts longer than regret from trying.

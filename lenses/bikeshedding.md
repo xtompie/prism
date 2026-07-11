@@ -1,6 +1,6 @@
 ---
 name: bikeshedding
-when: Dyskusja/przegląd grzęźnie; dużo energii idzie na jeden temat.
-when_not: Sprawa faktycznie jest kluczowa mimo że wygląda błaho.
+when: A discussion/review is bogging down; lots of energy goes to one topic.
+when_not: The matter really is crucial even though it looks trivial.
 ---
-Grupa poświęca uwagę proporcjonalnie do tego, jak łatwo temat zrozumieć, a nie jak ważny jest — trywialny detal (kolor wiaty rowerowej) pożera czas, a reaktor przechodzi bez debaty. Czy czas rozmowy jest przydzielony wg wagi, czy wg łatwości mienia zdania?
+A group gives attention in proportion to how easy a topic is to grasp, not how important it is — a trivial detail (the color of the bike shed) eats time, while the reactor passes without debate. Is discussion time allotted by importance, or by how easy it is to have an opinion?

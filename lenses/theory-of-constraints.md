@@ -1,6 +1,6 @@
 ---
 name: theory-of-constraints
-when: system jest wolny/zapchany i nie wiesz co optymalizować
-when_not: brak wyraźnego wąskiego gardła
+when: The system is slow/clogged and you don't know what to optimize.
+when_not: There's no clear bottleneck.
 ---
-Znajdź JEDNO wąskie gardło ograniczające całość. Optymalizacja czegokolwiek poza nim nic nie da — skup wysiłek na nim, aż przestanie być ograniczeniem.
+Find the ONE bottleneck constraining the whole. Optimizing anything but it does nothing — focus effort there until it stops being the constraint.

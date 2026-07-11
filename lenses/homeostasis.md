@@ -1,6 +1,6 @@
 ---
 name: homeostasis
-when: wprowadzasz zmianę do układu, który sam się reguluje (zespół, rynek, organizm, proces)
-when_not: układ bierny, bez pętli równoważących broniących stanu wyjściowego
+when: you introduce a change into a self-regulating system (team, market, organism, process)
+when_not: a passive system, with no balancing loops defending the initial state
 ---
-Układ pod naciskiem reaguje tak, by skompensować zmianę i wrócić do równowagi — Twoja interwencja bywa wchłaniana, jeśli nie ruszysz pętli, która ją niweluje. Pytanie: „co w tym systemie będzie aktywnie odpychać moją zmianę i przywracać stary stan?”
+A system under pressure reacts so as to compensate for the change and return to equilibrium — your intervention gets absorbed unless you touch the loop that cancels it. The question: "what in this system will actively push back on my change and restore the old state?"

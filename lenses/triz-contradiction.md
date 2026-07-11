@@ -1,6 +1,6 @@
 ---
 name: triz-contradiction
-when: utknąłeś w trade-offie „albo X, albo Y”
-when_not: nie ma realnej sprzeczności
+when: You're stuck in an "either X or Y" trade-off.
+when_not: There's no real contradiction.
 ---
-Nazwij sprzeczność (poprawić X bez pogorszenia Y) i szukaj rozwiązania, które ją znosi, zamiast szukać kompromisu. Pytanie: „jak dostać oba, zmieniając wymiar problemu?”
+Name the contradiction (improve X without worsening Y) and look for a solution that dissolves it, rather than seeking a compromise. Ask: how do I get both by changing the dimension of the problem?

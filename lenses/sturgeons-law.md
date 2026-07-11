@@ -1,6 +1,6 @@
 ---
 name: sturgeons-law
-when: Oceniasz zbiór opcji, przykładów, dostawców, źródeł — i chcesz ustawić oczekiwania.
-when_not: Zbiór jest wąsko wyselekcjonowany — prior "90% to śmieć" już nie obowiązuje.
+when: You're assessing a set of options, examples, vendors, sources — and want to set expectations.
+when_not: The set is narrowly curated — the "90% is junk" prior no longer holds.
 ---
-W dowolnej kategorii większość egzemplarzy jest mierna — to normalne, nie porażka danej dziedziny; wartość jest w wyławianiu górnego ogona. Czy nie odrzucasz całej klasy przez jej przeciętnych przedstawicieli, zamiast szukać tych 10%?
+In any category most instances are mediocre — that's normal, not a failure of the field; the value is in fishing out the top tail. Are you dismissing the whole class over its average specimens instead of hunting for that 10%?

@@ -1,6 +1,6 @@
 ---
 name: abstraction-laddering
-when: nie wiesz, czy rozwiązujesz właściwy problem
-when_not: problem dobrze zdefiniowany i na właściwym poziomie
+when: you're not sure you're solving the right problem
+when_not: the problem is well-defined and at the right level
 ---
-Wchodź w górę drabiny pytając „po co?” (szerszy cel) i w dół pytając „jak?” (konkret). Przeformułuj problem na innym poziomie abstrakcji, zanim zaczniesz rozwiązywać.
+Climb up the ladder by asking "why?" (broader goal) and down by asking "how?" (specifics). Reframe the problem at a different level of abstraction before you start solving it.

@@ -1,6 +1,6 @@
 ---
 name: evidence-before-claims
-when: zanim ogłosisz „gotowe / działa / przechodzi”
-when_not: nie składasz żadnej deklaracji sukcesu
+when: before you declare "done / works / passes"
+when_not: you're making no claim of success
 ---
-Żadnej deklaracji sukcesu bez świeżego dowodu z tej sesji (uruchomiona komenda, wynik, exit code). „Powinno działać” ≠ „działa”.
+No claim of success without fresh evidence from this session (a command run, its output, an exit code). "Should work" ≠ "works".

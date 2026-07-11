@@ -1,6 +1,6 @@
 ---
 name: thought-experiment
-when: utknąłeś albo chcesz sprawdzić granice pomysłu
-when_not: odpowiedź jest już jasna
+when: You're stuck or want to probe the limits of an idea.
+when_not: The answer is already clear.
 ---
-Doprowadź pomysł do skrajności: co się dzieje przy 0? przy nieskończoności? przy 1000× większej skali? Granice ujawniają ukryte założenia i miejsca, gdzie się łamie.
+Push the idea to extremes: what happens at 0? at infinity? at 1000x the scale? The limits reveal hidden assumptions and the points where it breaks.

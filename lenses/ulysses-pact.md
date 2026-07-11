@@ -1,6 +1,6 @@
 ---
 name: ulysses-pact
-when: Gdy wiesz, że przyszłe "ja" ulegnie pokusie lub słabości
-when_not: Gdy potrzebujesz elastyczności wobec nowych informacji
+when: You know your future self will give in to temptation or weakness.
+when_not: You need flexibility in the face of new information.
 ---
-Zwiąż ręce przyszłemu sobie decyzją podjętą teraz, na chłodno. Zapytaj: jakie zobowiązanie mogę nałożyć dziś, by odebrać sobie złą opcję jutro, gdy zabraknie mi woli?
+Tie your future self's hands with a decision made now, in a cool state. Ask: what commitment can I impose today to strip away the bad option tomorrow, when my will runs out?

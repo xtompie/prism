@@ -1,6 +1,6 @@
 ---
 name: five-whys
-when: masz objaw/awarię i chcesz przyczynę źródłową, nie plaster
-when_not: przyczyna jest już oczywista i potwierdzona
+when: you have a symptom/failure and want the root cause, not a band-aid
+when_not: the cause is already obvious and confirmed
 ---
-Pytaj „dlaczego?” około pięciu razy, schodząc od objawu do korzenia. Na każdym poziomie żądaj dowodu, nie domysłu.
+Ask "why?" about five times, descending from symptom to root. At each level demand evidence, not a guess.

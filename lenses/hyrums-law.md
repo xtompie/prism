@@ -1,6 +1,6 @@
 ---
 name: hyrums-law
-when: Gdy zmieniasz API, interfejs lub format, na którym ktoś polega
-when_not: Gdy nic zewnętrznego nie zależy od danego zachowania
+when: When you change an API, interface, or format that someone relies on
+when_not: When nothing external depends on the behavior in question
 ---
-Przy dość wielu użytkownikach każde obserwowalne zachowanie stanie się czyjąś zależnością. Zapytaj: na jakim, choćby przypadkowym, zachowaniu ktoś już zdążył się oprzeć?
+With enough users, every observable behavior becomes someone's dependency. Ask: what behavior, however incidental, has someone already come to rely on?

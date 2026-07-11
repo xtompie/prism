@@ -1,6 +1,6 @@
 ---
 name: externalities
-when: Oceniasz decyzję, której koszty lub korzyści spadają na kogoś spoza niej.
-when_not: Wszystkie skutki ponosi decydent — pełne sprzężenie zwrotne, brak stron trzecich.
+when: You're judging a decision whose costs or benefits fall on someone outside it.
+when_not: The decider bears all effects — full feedback loop, no third parties.
 ---
-Prawdziwy bilans obejmuje koszty i zyski przerzucone na innych, nieujęte w twojej kalkulacji (dług techniczny na przyszły zespół, hałas dla sąsiada, obciążenie downstream). Kto płaci za tę decyzję, choć nie siedzi przy stole — i czy ten koszt na pewno znika, czy tylko przenosi się poza kadr?
+The real balance sheet includes costs and gains pushed onto others, left out of your calculation (tech debt for a future team, noise for a neighbor, load downstream). Who pays for this decision without sitting at the table — and does that cost truly vanish, or just move off-frame?

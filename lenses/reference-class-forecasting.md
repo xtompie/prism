@@ -1,6 +1,6 @@
 ---
 name: reference-class-forecasting
-when: Gdy szacujesz czas, koszt lub wynik nowego przedsięwzięcia
-when_not: Gdy sytuacja jest naprawdę bezprecedensowa i brak klasy odniesienia
+when: When you estimate the time, cost, or outcome of a new venture
+when_not: When the situation is truly unprecedented and there's no reference class
 ---
-Zamiast liczyć od środka, spójrz z zewnątrz na klasę podobnych przypadków. Zapytaj: jak zwykle kończyły się projekty takie jak ten — i czemu mój miałby być wyjątkiem?
+Instead of counting from the inside, take the outside view of a class of similar cases. Ask: how did projects like this usually turn out — and why would mine be the exception?

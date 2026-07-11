@@ -1,6 +1,6 @@
 ---
 name: anchoring
-when: Gdy pierwsza liczba lub propozycja kształtuje Twoją ocenę
-when_not: Gdy masz twardy, niezależny punkt odniesienia
+when: When the first number or proposal shapes your judgment
+when_not: When you have a hard, independent reference point
 ---
-Pierwsza podana wartość wykrzywia wszystkie kolejne szacunki. Zapytaj: jaką liczbę bym podał, gdybym nigdy nie zobaczył tej pierwszej kotwicy?
+The first value given distorts every estimate that follows. Ask: what number would I give if I'd never seen that first anchor?

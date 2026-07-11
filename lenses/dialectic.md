@@ -1,6 +1,6 @@
 ---
 name: dialectic
-when: Dwie tezy wydają się sprzeczne i wybierasz jedną, tracąc coś cennego z drugiej.
-when_not: Jedna strona jest po prostu błędna — synteza tylko rozwadnia prawdę.
+when: Two claims seem contradictory and you pick one, losing something valuable from the other.
+when_not: One side is simply wrong — synthesis only dilutes the truth.
 ---
-Postaw tezę i jej przeciwieństwo, potem szukaj syntezy, która zachowuje prawdę obu na wyższym poziomie zamiast wybierać stronę. Co obie skłócone opcje mają rację i jakie rozwiązanie honoruje jedno i drugie naraz?
+State a thesis and its opposite, then look for a synthesis that preserves the truth of both at a higher level instead of picking a side. What are both clashing options right about, and what solution honors each at once?

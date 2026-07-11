@@ -1,6 +1,6 @@
 ---
 name: rubber-duck
-when: utknąłeś w problemie lub błędzie, którego nie potrafisz zlokalizować
-when_not: problem jest jasny, brakuje tylko dyscypliny wykonania
+when: you're stuck on a problem or bug you can't pin down
+when_not: the problem is clear and only execution discipline is missing
 ---
-Wytłumacz problem krok po kroku, na głos i wprost, jakbyś mówił do kogoś zupełnie niezorientowanego — luka ujawnia się dokładnie w miejscu, gdzie wyjaśnienie się rwie. Pytanie: „którego kroku nie umiem powiedzieć prosto — bo właśnie tam siedzi błąd?”
+Explain the problem step by step, out loud and plainly, as if to someone with no context — the gap shows up exactly where the explanation breaks. Ask: "which step can't I state simply — because that's where the bug lives?"

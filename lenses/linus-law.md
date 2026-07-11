@@ -1,6 +1,6 @@
 ---
 name: linus-law
-when: chcesz wyłapać błędy lub wady w swojej pracy (kod, tekst, plan, decyzja)
-when_not: sprawa wymaga poufności albo decydent jest jeden, a zwłoka kosztowna
+when: you want to catch bugs or flaws in your work (code, text, plan, decision)
+when_not: the matter needs confidentiality, or there's a single decider and delay is costly
 ---
-Przy dostatecznie wielu niezależnych parach oczu każdy błąd staje się płytki — a praca solowa i ukryta gromadzi niewykryte wady. Pytanie: „komu jeszcze mogę to pokazać, kto spojrzy z innej strony niż ja?”
+With enough independent pairs of eyes, every bug becomes shallow — while solo, hidden work accumulates undetected flaws. Ask: "who else can I show this to, someone who'll look from a different angle than me?"

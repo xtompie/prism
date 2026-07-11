@@ -1,6 +1,6 @@
 ---
 name: hofstadters-law
-when: szacujesz czas lub wysiłek zadania, zwłaszcza złożonego lub nowego
-when_not: zadanie rutynowe, wielokrotnie mierzone, znasz realny czas z historii
+when: you're estimating the time or effort of a task, especially a complex or new one
+when_not: a routine task, measured many times, whose real duration you know from history
 ---
-Zajmie dłużej, niż myślisz — nawet gdy uwzględnisz to prawo. Dołóż bufor na nieznane-nieznane zamiast liczyć od gładkiego przypadku i pytaj: „gdzie w tym planie ukrywa się praca, której jeszcze nie widzę?”
+It will take longer than you think — even when you account for this law. Add a buffer for the unknown-unknowns instead of counting from the smooth case, and ask: "where in this plan is work hiding that I don't yet see?"

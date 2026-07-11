@@ -1,6 +1,6 @@
 ---
 name: restate-the-problem
-when: Kręcisz się w kółko; obecne sformułowanie problemu narzuca ślepe rozwiązania.
-when_not: Problem jest już precyzyjny i zgodny co do sedna — przeformułowanie tylko rozmyje.
+when: You're going in circles; the current framing forces blind solutions.
+when_not: The problem is already precise and agreed on its core — reframing would only blur it.
 ---
-Powiedz ten sam problem innymi słowami, z innej perspektywy albo jako pytanie o inny obiekt (nie "jak przyspieszyć X" lecz "dlaczego X w ogóle musi się dziać"). Które sformułowanie otwiera więcej rozwiązań niż zamyka?
+State the same problem in different words, from a different angle, or as a question about a different object (not "how to speed up X" but "why does X need to happen at all"). Which framing opens more solutions than it closes?

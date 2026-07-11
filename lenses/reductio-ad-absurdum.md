@@ -1,6 +1,6 @@
 ---
 name: reductio-ad-absurdum
-when: Chcesz sprawdzić założenie/regułę/argument bez budowania dowodu wprost.
-when_not: Domena znosi skrajności bez absurdu (rzeczy nieliniowe, gdzie "więcej" zmienia jakość).
+when: You want to test an assumption/rule/argument without building a direct proof.
+when_not: The domain absorbs extremes without absurdity (nonlinear things where "more" changes the quality).
 ---
-Przyjmij twierdzenie jako prawdziwe i doprowadź je do granicy — jeśli logiczna konsekwencja jest absurdalna lub sprzeczna, twierdzenie jest wadliwe. Co się stanie, gdy tę zasadę zastosuję do końca, na 100% przypadków — czy nadal się broni?
+Take the claim as true and push it to its limit — if the logical consequence is absurd or contradictory, the claim is flawed. What happens when I apply this rule all the way, to 100% of cases — does it still hold?

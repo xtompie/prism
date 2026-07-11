@@ -1,6 +1,6 @@
 ---
 name: chain-of-verification
-when: Gdy output zawiera fakty lub liczby, które mogą być zmyślone
-when_not: Gdy nie ma żadnych weryfikowalnych twierdzeń do sprawdzenia
+when: When the output contains facts or numbers that could be fabricated
+when_not: When there are no verifiable claims to check
 ---
-Wypisz pytania weryfikacyjne do własnych twierdzeń, odpowiedz na nie osobno, potem popraw. Zapytaj: które konkretne stwierdzenia muszę sprawdzić, zanim podam je jako pewne?
+List verification questions for your own claims, answer them separately, then correct. Ask: which specific statements must I check before presenting them as certain?

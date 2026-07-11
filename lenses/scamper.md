@@ -1,6 +1,6 @@
 ---
 name: scamper
-when: trzeba wygenerować warianty istniejącego rozwiązania
-when_not: potrzebujesz czegoś od zera (patrz: first-principles)
+when: you need to generate variants of an existing solution
+when_not: you need something from scratch (see: first-principles)
 ---
-Przełóż obiekt przez pobudki: Substitute, Combine, Adapt, Modify, Put-to-other-use, Eliminate, Reverse. Pytanie: „co jeśli usunę / odwrócę / połączę ten element?”
+Run the object through the prompts: Substitute, Combine, Adapt, Modify, Put-to-other-use, Eliminate, Reverse. Ask: "what if I remove / reverse / combine this element?"

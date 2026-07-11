@@ -1,6 +1,6 @@
 ---
 name: opportunity-cost
-when: wybierasz jedną z kilku dróg przy ograniczonym czasie/zasobach
-when_not: brak realnej alternatywy albo zasób nieograniczony
+when: you're choosing one of several paths under limited time/resources
+when_not: there's no real alternative or the resource is unlimited
 ---
-Każde „tak” to „nie” dla czegoś innego. Nazwij, co konkretnie tracisz, wybierając tę opcję — czy najlepsza odrzucona nie jest lepsza?
+Every "yes" is a "no" to something else. Name what exactly you lose by picking this option — isn't the best rejected one actually better?

@@ -1,6 +1,6 @@
 ---
 name: constraint-relaxation
-when: przestrzeń rozwiązań wydaje się zamknięta przez „to niemożliwe, bo X”
-when_not: ograniczenie jest twarde i nienaruszalne (prawo, bezpieczeństwo, fizyka)
+when: the solution space seems closed by "it's impossible, because X"
+when_not: the constraint is hard and inviolable (law, safety, physics)
 ---
-Załóż na chwilę, że jedno wiążące ograniczenie (budżet, czas, technologia, zasada) znika, i zobacz, jakie rozwiązania wtedy się otwierają — potem policz realny koszt jego poluzowania. Pytanie: „które jedno ograniczenie, gdyby padło, zmienia grę najbardziej?”
+Assume for a moment that one binding constraint (budget, time, technology, rule) disappears, and see what solutions then open up — then reckon the real cost of loosening it. The question: "which single constraint, if it fell, would change the game the most?"

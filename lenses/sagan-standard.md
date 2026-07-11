@@ -1,6 +1,6 @@
 ---
 name: sagan-standard
-when: Gdy oceniasz twierdzenie odbiegające od tego, co dobrze ustalone
-when_not: Gdy twierdzenie jest rutynowe i zgodne z bazą wiedzy
+when: When you assess a claim that departs from what's well established
+when_not: When the claim is routine and consistent with the knowledge base
 ---
-Nadzwyczajne twierdzenia wymagają nadzwyczajnych dowodów. Zapytaj: czy siła przedstawionego dowodu jest proporcjonalna do tego, jak zaskakujące jest to twierdzenie?
+Extraordinary claims require extraordinary evidence. Ask: is the strength of the evidence presented proportional to how surprising the claim is?

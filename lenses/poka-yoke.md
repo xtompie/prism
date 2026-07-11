@@ -1,6 +1,6 @@
 ---
 name: poka-yoke
-when: Gdy projektujesz proces lub interfejs podatny na ludzki błąd
-when_not: Gdy błąd jest nieszkodliwy albo elastyczność ważniejsza od bezpieczeństwa
+when: When you design a process or interface prone to human error
+when_not: When the error is harmless, or flexibility matters more than safety
 ---
-Zaprojektuj tak, by błąd był niemożliwy, a nie tylko odradzany. Zapytaj: jak ukształtować to, żeby zła droga fizycznie nie dała się wykonać, zamiast liczyć na czujność?
+Design so the mistake is impossible, not merely discouraged. Ask: how do I shape this so the wrong path physically can't be taken, rather than relying on vigilance?

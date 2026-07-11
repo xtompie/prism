@@ -1,6 +1,6 @@
 ---
 name: dual-process
-when: decyzja „na czuja” przy wysokiej stawce
-when_not: rutyna, gdzie intuicja jest wiarygodna
+when: a gut-feel decision at high stakes
+when_not: routine, where intuition is reliable
 ---
-Rozdziel szybką intuicję (System 1) od wolnej analizy (System 2). Gdzie intuicja może zwodzić (biasy, pierwsze wrażenie)? Tam włącz świadomie wolne myślenie.
+Separate fast intuition (System 1) from slow analysis (System 2). Where can intuition mislead (biases, first impression)? There, deliberately engage slow thinking.

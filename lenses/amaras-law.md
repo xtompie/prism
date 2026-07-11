@@ -1,6 +1,6 @@
 ---
 name: amaras-law
-when: Oceniasz wpływ nowej technologii, trendu lub zmiany w czasie.
-when_not: Krótki, ograniczony horyzont bez efektów kumulacji.
+when: You're assessing the impact of a new technology, trend, or change over time.
+when_not: A short, bounded horizon with no compounding effects.
 ---
-Ludzie przeceniają skutek zmiany w krótkim terminie i nie doceniają w długim — hype teraz, transformacja później. Czy nie mylisz "zawiodło, bo nie zdążyło w rok" z "nieważne", i odwrotnie — chwilowego szumu z trwałą siłą?
+People overestimate the effect of a change in the short term and underestimate it in the long term — hype now, transformation later. Are you confusing "it failed because it didn't deliver in a year" with "it doesn't matter," and vice versa — mistaking momentary noise for lasting force?

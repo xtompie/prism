@@ -1,6 +1,6 @@
 ---
 name: positive-sum-framing
-when: Gdy widzisz sytuację jako walkę o stały, dzielony tort
-when_not: Gdy zasób jest realnie sztywny i rozdzielny tylko na sumę zero
+when: When you see a situation as a fight over a fixed, shared pie
+when_not: When the resource is genuinely rigid and can only be split zero-sum
 ---
-Sprawdź, czy tort da się powiększyć, zamiast tylko go dzielić. Zapytaj: czy to naprawdę gra o sumie zerowej, czy istnieje układ, w którym obie strony wychodzą lepiej?
+Check whether the pie can be grown instead of just divided. Ask: is this really zero-sum, or is there an arrangement where both sides come out ahead?

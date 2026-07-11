@@ -1,6 +1,6 @@
 ---
 name: ten-ten-ten
-when: Gdy decyzja jest napędzana chwilową emocją lub presją
-when_not: Gdy decyzja jest czysto techniczna, bez ładunku emocjonalnego
+when: The decision is driven by a momentary emotion or pressure.
+when_not: The decision is purely technical, with no emotional charge.
 ---
-Spójrz na decyzję z trzech dystansów czasu. Zapytaj: jak ocenię ten wybór za 10 minut, za 10 miesięcy i za 10 lat?
+View the decision from three time distances. Ask: how will I judge this choice in 10 minutes, in 10 months, and in 10 years?

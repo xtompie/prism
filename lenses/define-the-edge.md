@@ -1,6 +1,6 @@
 ---
 name: define-the-edge
-when: pozycjonujesz narzędzie/rozwiązanie i kusi „nadaje się do wszystkiego”
-when_not: zakres jest trywialny albo oczywisty
+when: you're positioning a tool/solution and tempted to say "good for everything"
+when_not: the scope is trivial or obvious
 ---
-Wiarygodność bierze się z powiedzenia, GDZIE narzędzie przestaje działać, nie tylko gdzie działa. Nazwij wprost krawędź i klasę problemów, do których to NIE jest — ostry zakres czyta się poważniej niż „robi wszystko”.
+Credibility comes from stating WHERE the tool stops working, not just where it works. Name the edge outright and the class of problems this is NOT for — a sharp scope reads as more serious than "does everything."

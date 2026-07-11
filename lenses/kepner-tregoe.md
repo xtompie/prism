@@ -1,6 +1,6 @@
 ---
 name: kepner-tregoe
-when: trudny bug/incydent i mnóstwo możliwych przyczyn
-when_not: przyczyna oczywista
+when: a hard bug/incident with many possible causes
+when_not: the cause is obvious
 ---
-Rozpisz co JEST, a co NIE JEST problemem (is / is-not): gdzie występuje a gdzie nie, kiedy tak a kiedy nie. Różnice odsiewają przyczyny, których nie musisz sprawdzać.
+Map out what IS and what IS NOT the problem (is / is-not): where it occurs and where it doesn't, when it does and when it doesn't. The differences filter out causes you don't need to check.

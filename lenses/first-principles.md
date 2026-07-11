@@ -1,6 +1,6 @@
 ---
 name: first-principles
-when: problem obrósł w założenia przejęte przez analogię albo „bo tak się robi”
-when_not: sprawa rutynowa, istnieje sprawdzona praktyka i nic jej nie podważa
+when: the problem is encrusted with assumptions taken by analogy or "because that's how it's done"
+when_not: a routine matter with a proven practice that nothing challenges
 ---
-Rozbierz problem na fakty pierwotne (co jest twardo prawdą?), odrzuć wszystko przejęte na wiarę i zbuduj rozwiązanie od zera z tych faktów.
+Break the problem down to primitive facts (what is hard truth?), discard everything taken on faith, and rebuild the solution from scratch out of those facts.

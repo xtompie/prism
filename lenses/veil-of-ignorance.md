@@ -1,6 +1,6 @@
 ---
 name: veil-of-ignorance
-when: Projektujesz regułę/podział/system, a masz w nim własny interes lub znaną pozycję.
-when_not: Decyzja dotyczy tylko ciebie i nie ma stron o rozbieżnych interesach.
+when: You're designing a rule/allocation/system in which you have your own stake or a known position.
+when_not: The decision affects only you and there are no parties with conflicting interests.
 ---
-Zaprojektuj zasadę tak, jakbyś nie wiedział, którą stroną będziesz — losowym użytkownikiem, najsłabszym graczem, przyszłym sobą. Czy ta reguła nadal wydaje mi się dobra, gdy nie wiem, na którym jej końcu wyląduję?
+Design the rule as if you didn't know which side you'd be on — a random user, the weakest player, your future self. Does this rule still seem good to me when I don't know which end of it I'll land on?

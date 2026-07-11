@@ -1,6 +1,6 @@
 ---
 name: self-consistency
-when: Odpowiedź/estymata jest zawodna, a istnieje wiele niezależnych dróg do niej.
-when_not: Wynik długi, rozmyty lub subiektywny — "głosowanie" nad esejami to bałagan; albo drogi nie są niezależne.
+when: The answer/estimate is unreliable, but many independent paths lead to it.
+when_not: The output is long, fuzzy, or subjective — "voting" over essays is a mess; or the paths aren't independent.
 ---
-Zamiast ufać jednemu przebiegowi rozumowania, wygeneruj kilka niezależnych ścieżek i weź to, na czym się zbiegają — prawda się powtarza, błędy rozpraszają. Czy różne podejścia dają ten sam wynik, a jeśli nie — czego uczy mnie ich rozjazd?
+Instead of trusting one reasoning run, generate several independent paths and take what they converge on — truth repeats, errors scatter. Do different approaches yield the same result, and if not, what does their divergence teach me?

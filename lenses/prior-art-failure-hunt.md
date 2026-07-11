@@ -1,6 +1,6 @@
 ---
 name: prior-art-failure-hunt
-when: budujesz/projektujesz coś, czego nie robiłeś na pamięć wiele razy
-when_not: znasz temat na wylot albo to trywialne
+when: building/designing something you haven't done by heart many times
+when_not: you know the topic cold, or it's trivial
 ---
-Uderz do sieci kilka–kilkanaście razy: jak INNI to robili i NA CZYM POLEGLI — case studies, post-mortemy, „lessons learned”, wątki „gotchas”. Zbierz listę pułapek, decyzji architektonicznych i pojęć, których nie znałeś. Skup się na porażkach i wyjątkach — tam widać prawdziwy kształt systemu.
+Hit the web a handful of times: how did OTHERS do this and WHERE DID THEY FAIL — case studies, post-mortems, "lessons learned," "gotchas" threads. Collect the traps, architectural decisions, and concepts you didn't know. Focus on failures and edge cases — that's where the real shape of the system shows.

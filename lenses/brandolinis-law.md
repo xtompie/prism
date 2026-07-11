@@ -1,6 +1,6 @@
 ---
 name: brandolinis-law
-when: Ważysz, czy prostować błędne twierdzenie / słaby argument / bałagan.
-when_not: Koszt niesprostowania jest wysoki (bezpieczeństwo, prawda krytyczna) — wtedy prostuj mimo asymetrii.
+when: You're weighing whether to correct a false claim / weak argument / mess.
+when_not: The cost of not correcting is high (safety, critical truth) — then correct despite the asymmetry.
 ---
-Obalenie bzdury kosztuje o rząd wielkości więcej energii niż jej wyprodukowanie — nie wciągaj się odruchowo w każdą. Czy ten spór/poprawka jest wart mojej asymetrycznie większej pracy, czy lepiej postawić tamę u źródła?
+Refuting nonsense costs an order of magnitude more energy than producing it — don't reflexively get drawn into every instance. Is this dispute/correction worth my asymmetrically greater effort, or is it better to build a dam at the source?

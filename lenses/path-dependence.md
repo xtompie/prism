@@ -1,6 +1,6 @@
 ---
 name: path-dependence
-when: Rozumiesz, czemu coś ma dziwny kształt, albo projektujesz decyzję o długim ogonie.
-when_not: System łatwo resetowalny, bez kosztów przełączenia ani utrwalonej historii.
+when: you're figuring out why something has a strange shape, or designing a long-tailed decision
+when_not: the system resets easily, with no switching costs or entrenched history
 ---
-Obecne opcje są ograniczone przez przeszłe wybory, nie tylko przez dzisiejsze zalety — wczesna, nawet przypadkowa decyzja utrwala się i zamyka drogi. Które dzisiejsze ograniczenie jest reliktem starej decyzji, a nie prawem natury, i jaki krok utrwalam właśnie teraz?
+Current options are constrained by past choices, not just today's merits — an early, even accidental decision entrenches and closes off paths. Which of today's constraints is a relic of an old decision rather than a law of nature, and which step am I entrenching right now?

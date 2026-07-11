@@ -1,6 +1,6 @@
 ---
 name: leverage-points
-when: chcesz zmienić zachowanie systemu, ale masz mało siły przebicia
-when_not: system prosty, jeden oczywisty suwak
+when: you want to change a system's behavior but have little clout
+when_not: the system is simple, one obvious knob
 ---
-Szukaj punktów, gdzie najmniejszy ruch zmienia najwięcej. Kolejność siły: cel systemu > reguły > przepływ informacji > pętle > parametry. Kręcenie parametrami to najsłabsza dźwignia.
+Look for points where the smallest move changes the most. Order of power: system goal > rules > information flow > loops > parameters. Twiddling parameters is the weakest lever.

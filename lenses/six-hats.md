@@ -1,6 +1,6 @@
 ---
 name: six-hats
-when: ocena pomysłu, gdy grozi jednostronność
-when_not: decyzja trywialna
+when: Evaluating an idea when there's a risk of one-sidedness.
+when_not: The decision is trivial.
 ---
-Świadomie obejdź problem z sześciu trybów po kolei — fakty, emocje, ryzyka, korzyści, kreatywność, meta-proces — zamiast mieszać je naraz.
+Deliberately walk the problem through six modes in turn — facts, emotions, risks, benefits, creativity, meta-process — instead of mixing them all at once.

@@ -1,6 +1,6 @@
 ---
 name: scientific-method
-when: masz hipotezę/założenie, na którym oprzesz dużo pracy
-when_not: twierdzenie już potwierdzone
+when: you have a hypothesis/assumption a lot of work will rest on
+when_not: the claim is already confirmed
 ---
-Sformułuj hipotezę jako coś, co MOŻE być fałszywe, i zaprojektuj najtańszy test zdolny ją obalić. Szukaj obalenia, nie potwierdzenia.
+State the hypothesis as something that CAN be false, and design the cheapest test able to refute it. Seek refutation, not confirmation.

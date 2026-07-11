@@ -1,6 +1,6 @@
 ---
 name: means-ends-analysis
-when: Duży dystans między stanem obecnym a celem; potrzeba systematycznego domykania luki.
-when_not: Droga oczywista lub cel wymaga skoku, nie przybliżeń.
+when: a big gap between the current state and the goal; you need to close it systematically
+when_not: the path is obvious, or the goal needs a leap, not increments
 ---
-Nazwij największą różnicę między "gdzie jestem" a "gdzie chcę być", wybierz działanie które ją redukuje, a jeśli nie da się go wykonać — potraktuj to jako nowy podcel. Jaka różnica jest teraz największa i co ją najbardziej zmniejsza?
+Name the biggest difference between "where I am" and "where I want to be", pick an action that reduces it, and if that action can't be done, treat it as a new subgoal. Which difference is largest now, and what shrinks it most?

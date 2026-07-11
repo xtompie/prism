@@ -1,6 +1,6 @@
 ---
 name: galls-law
-when: Gdy projektujesz złożony system lub proces od podstaw
-when_not: Gdy adaptujesz istniejący, już działający system
+when: When you're designing a complex system or process from scratch
+when_not: When you're adapting an existing, already-working system
 ---
-Działający złożony system zawsze wyrasta z działającego prostego. Zapytaj: jaka jest najprostsza wersja, która realnie działa, i od której mogę stopniowo rosnąć?
+A working complex system always grows out of a working simple one. Ask: what is the simplest version that actually works, and from which I can grow incrementally?

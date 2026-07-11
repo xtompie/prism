@@ -1,6 +1,6 @@
 ---
 name: occams-razor
-when: masz kilka konkurencyjnych wyjaśnień albo rozwiązań
-when_not: prostota kłóci się z twardymi wymaganiami
+when: you have several competing explanations or solutions
+when_not: simplicity conflicts with hard requirements
 ---
-Wybierz najprostsze wyjaśnienie/rozwiązanie, które tłumaczy fakty. Każdy dodatkowy byt/założenie musi zarobić na swoje istnienie.
+Pick the simplest explanation/solution that fits the facts. Every extra entity/assumption must earn its existence.

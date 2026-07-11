@@ -1,6 +1,6 @@
 ---
 name: parkinsons-law
-when: Gdy planujesz czas, zakres pracy lub przydział zasobów
-when_not: Gdy zadanie ma twardy, nieelastyczny minimalny nakład
+when: you're planning time, scope of work, or resource allocation
+when_not: the task has a hard, inelastic minimum effort
 ---
-Praca rozszerza się, by wypełnić czas dostępny na jej wykonanie. Zapytaj: czy ten termin i budżet napędzają pracę, czy tylko pozwalają jej się rozdąć?
+Work expands to fill the time available for it. Ask: is this deadline and budget driving the work, or just letting it bloat?

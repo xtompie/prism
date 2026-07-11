@@ -1,6 +1,6 @@
 ---
 name: streetlight-effect
-when: Gdy szukasz odpowiedzi lub danych tam, gdzie szukać najłatwiej
-when_not: Gdy łatwo dostępne dane są zarazem właściwym miejscem odpowiedzi
+when: You're looking for answers or data where it's easiest to look.
+when_not: The easily available data happens to be the right place for the answer.
 ---
-Nie szukaj klucza pod latarnią tylko dlatego, że tam jaśniej. Zapytaj: czy patrzę tam, gdzie naprawdę jest odpowiedź, czy tam, gdzie po prostu wygodnie patrzeć?
+Don't hunt for the key under the streetlight just because it's brighter there. Ask: am I looking where the answer actually is, or just where it's convenient to look?

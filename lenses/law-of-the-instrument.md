@@ -1,6 +1,6 @@
 ---
 name: law-of-the-instrument
-when: Gdy odruchowo sięgasz po znane narzędzie lub podejście
-when_not: Gdy narzędzie realnie i sprawdzalnie pasuje do problemu
+when: you reflexively reach for a familiar tool or approach
+when_not: the tool genuinely and verifiably fits the problem
 ---
-Kto ma tylko młotek, w każdym problemie widzi gwóźdź. Zapytaj: czy dobieram narzędzie do problemu, czy naginam problem do swojego ulubionego narzędzia?
+To someone with only a hammer, every problem looks like a nail. Ask: am I fitting the tool to the problem, or bending the problem to my favorite tool?

@@ -1,6 +1,6 @@
 ---
 name: skin-in-the-game
-when: Gdy ktoś doradza lub decyduje o skutkach ponoszonych przez innych
-when_not: Gdy oceniasz czysty fakt niezależny od czyjegoś interesu
+when: Someone advises or decides on outcomes borne by others.
+when_not: You're assessing a plain fact independent of anyone's interest.
 ---
-Ufaj bardziej temu, kto sam ponosi koszty swoich błędów. Zapytaj: czy autor tej rady lub decyzji dzieli ryzyko, czy zbiera tylko zyski, a straty spadają na kogoś innego?
+Trust more the person who bears the cost of their own mistakes. Ask: does the author of this advice or decision share the risk, or do they collect only the upside while the losses fall on someone else?

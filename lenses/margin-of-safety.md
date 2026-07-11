@@ -1,6 +1,6 @@
 ---
 name: margin-of-safety
-when: projektujesz coś, co musi wytrzymać nieznane/skrajne warunki
-when_not: koszt błędu znikomy
+when: you're designing something that must survive unknown/extreme conditions
+when_not: the cost of failure is negligible
 ---
-Zaprojektuj zapas na pomyłkę i na to, czego nie wiesz. Zapytaj: co jeśli kluczowe założenie jest 2× gorsze niż sądzę — czy to jeszcze stoi?
+Design in slack for mistakes and for what you don't know. Ask: what if a key assumption is 2x worse than I think — does it still hold?

@@ -1,6 +1,6 @@
 ---
 name: via-negativa
-when: system spuchł, komplikacja rośnie, „dodajmy jeszcze to”
-when_not: brakuje czegoś fundamentalnego, co trzeba dodać
+when: The system has bloated, complexity is growing, "let's just add this too."
+when_not: Something fundamental is missing and needs to be added.
 ---
-Zamiast dodawać — usuń. Co wywalić (funkcję, warstwę, założenie, zależność), żeby było prostsze, bezpieczniejsze albo szybsze?
+Instead of adding — remove. What can you cut (a feature, a layer, an assumption, a dependency) to make it simpler, safer, or faster?

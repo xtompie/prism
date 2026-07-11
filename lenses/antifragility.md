@@ -1,6 +1,6 @@
 ---
 name: antifragility
-when: Gdy projektujesz coś pod niepewność, zmienność i wstrząsy
-when_not: Gdy środowisko jest stabilne i w pełni przewidywalne
+when: When you're designing something for uncertainty, volatility, and shocks
+when_not: When the environment is stable and fully predictable
 ---
-Nie tylko przetrwaj chaos — zyskuj na nim. Zapytaj: czy ten układ słabnie od wstrząsów i błędów, czy potrafi się od nich wzmacniać i uczyć?
+Don't just survive chaos — gain from it. Ask: does this arrangement weaken under shocks and errors, or can it strengthen and learn from them?

@@ -1,6 +1,6 @@
 ---
 name: chestertons-fence
-when: Zanim usuniesz lub zmienisz istniejące rozwiązanie, regułę albo kod
-when_not: Gdy tworzysz coś od zera i nic nie istniało wcześniej
+when: Before you remove or change an existing solution, rule, or piece of code
+when_not: When you're building from scratch and nothing existed before
 ---
-Nie burz płotu, dopóki nie zrozumiesz, po co go postawiono. Zapytaj: jaki problem rozwiązywało to, co chcę usunąć — i czy ten problem nadal istnieje?
+Don't tear down the fence until you understand why it was put up. Ask: what problem did the thing I want to remove solve — and does that problem still exist?

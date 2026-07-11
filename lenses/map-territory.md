@@ -1,6 +1,6 @@
 ---
 name: map-territory
-when: opierasz się na modelu, diagramie, metryce albo abstrakcji
-when_not: pracujesz bezpośrednio na rzeczywistości
+when: you're relying on a model, diagram, metric, or abstraction
+when_not: you're working directly on reality
 ---
-Pamiętaj: mapa ≠ teren. Sprawdź, gdzie model rozjeżdża się z rzeczywistością i co upraszcza tak, że może Cię oszukać.
+Remember: the map is not the territory. Check where the model diverges from reality and what it simplifies in ways that can deceive you.

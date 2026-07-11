@@ -1,6 +1,6 @@
 ---
 name: oblique-strategies
-when: Gdy utknąłeś i myślenie kręci się w tej samej koleinie
-when_not: Gdy ścieżka jest jasna i trzeba tylko dyscypliny wykonania
+when: you're stuck and your thinking keeps circling the same rut
+when_not: the path is clear and all you need is execution discipline
 ---
-Wrzuć celowo obce, losowe ograniczenie lub prowokację, by wybić się z rutyny. Zapytaj: co, gdyby narzucić tu regułę z zupełnie innego porządku, niepasującą do problemu?
+Throw in a deliberately alien, random constraint or provocation to break out of the routine. Ask: what if I imposed a rule here from a completely different domain, one that doesn't fit the problem?

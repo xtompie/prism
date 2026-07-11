@@ -1,6 +1,6 @@
 ---
 name: principal-agent-problem
-when: Ktoś (lub coś) działa w twoim imieniu, a jego interesy mogą się rozjeżdżać z twoimi.
-when_not: Wykonawca i zleceniodawca to ta sama osoba lub interesy w pełni zbieżne.
+when: Someone (or something) acts on your behalf and their interests may diverge from yours.
+when_not: The doer and the delegator are the same person, or interests fully align.
 ---
-Delegując, oddajesz kontrolę komuś o własnych celach — agent optymalizuje swoje, nie twoje, zwłaszcza gdy nie widzisz jego działań (wykonawca, pośrednik, model AI realizujący instrukcję). Czy zachęty i widoczność są tak ustawione, by wykonawcy opłacało się chcieć tego, co ja?
+When you delegate, you hand control to someone with their own goals — the agent optimizes theirs, not yours, especially when you can't see what they do (a contractor, a broker, an AI model following instructions). Are incentives and visibility set up so it pays the agent to want what I want?

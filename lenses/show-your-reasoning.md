@@ -1,6 +1,6 @@
 ---
 name: show-your-reasoning
-when: grozi Ci odpowiedź „z automatu”, a sprawa realnie wymaga rozumowania
-when_not: odpowiedź jest oczywista, a rozpisywanie kroków to strata czasu
+when: You're about to answer on autopilot, but the matter genuinely requires reasoning.
+when_not: The answer is obvious and spelling out steps is a waste of time.
 ---
-Najpierw rozpisz rozumowanie krok po kroku, dopiero potem sformułuj wniosek — wyłożone kroki obnażają skok, który odruch by przemycił. Pytanie: „czy potrafię pokazać całą drogę do tej odpowiedzi, czy tylko ją poczułem?”
+Lay out the reasoning step by step first, then state the conclusion — explicit steps expose the leap a reflex would smuggle in. Ask: can I show the whole path to this answer, or did I just feel it?

@@ -1,6 +1,6 @@
 ---
 name: issue-trees
-when: problem jest duży/mglisty i trzeba go rozłożyć
-when_not: problem mały i już jasny
+when: the problem is large/fuzzy and needs to be broken down
+when_not: the problem is small and already clear
 ---
-Rozbij problem na wzajemnie wykluczające się, wyczerpujące gałęzie (MECE) i atakuj je osobno. Pytanie: „na jakie rozłączne podproblemy to się dzieli i czy razem pokrywają całość?”
+Break the problem into mutually exclusive, collectively exhaustive branches (MECE) and attack each separately. Ask: "into what disjoint subproblems does this split, and do they together cover the whole?"

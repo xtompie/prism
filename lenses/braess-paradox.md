@@ -1,6 +1,6 @@
 ---
 name: braess-paradox
-when: chcesz poprawić przepływ lub wydajność systemu, dokładając zasób, drogę albo opcję
-when_not: element jest izolowany, bez sprzężeń i agentów konkurujących o niego lokalnie
+when: you want to improve a system's flow or performance by adding a resource, route, or option
+when_not: the element is isolated, with no coupling and no agents competing over it locally
 ---
-Dodanie mocy, ścieżki czy opcji potrafi pogorszyć działanie całości, gdy uczestnicy optymalizują lokalnie — więcej nie znaczy lepiej. Pytanie: „czy ten dodatek na pewno poprawi całość, czy tylko przesunie zator gdzie indziej?” Rozważ też odwrotność: co usunąć, by odblokować przepływ.
+Adding capacity, a path, or an option can worsen the whole when participants optimize locally — more doesn't mean better. The question: "will this addition really improve the whole, or just move the bottleneck elsewhere?" Consider the inverse too: what to remove to unblock flow.

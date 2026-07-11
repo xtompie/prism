@@ -1,6 +1,6 @@
 ---
 name: bayesian
-when: oceniasz prawdopodobieństwo/ryzyko przy niepełnych danych
-when_not: sprawa deterministyczna, bez niepewności
+when: you're assessing probability/risk with incomplete data
+when_not: the matter is deterministic, with no uncertainty
 ---
-Zacznij od bazowej częstości (jak często tak bywa w ogóle?), potem aktualizuj w miarę dowodów. Nie ignoruj priorów pod wpływem jednej świeżej historii.
+Start from the base rate (how often does this happen at all?), then update as evidence comes in. Don't ignore your priors under the pull of one fresh story.

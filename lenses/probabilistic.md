@@ -1,6 +1,6 @@
 ---
 name: probabilistic
-when: przyszłość jest niepewna, a Ty myślisz jednym scenariuszem
-when_not: wynik pewny/deterministyczny
+when: the future is uncertain and you're thinking in a single scenario
+when_not: the outcome is certain/deterministic
 ---
-Myśl rozkładami, nie punktami. Rozpisz scenariusze best / oczekiwany / worst i przypisz im grube prawdopodobieństwa — planuj pod rozkład, nie pod jedną wersję.
+Think in distributions, not points. Lay out best / expected / worst scenarios and assign them rough probabilities — plan for the distribution, not one version.

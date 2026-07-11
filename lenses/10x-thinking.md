@@ -1,6 +1,6 @@
 ---
 name: 10x-thinking
-when: Utknąłeś w drobnych usprawnieniach; chcesz wymusić inne podejście, nie szlif obecnego.
-when_not: Wystarczy przyrost, a skok 10x rozbiłby coś działającego lub jest czystą fantazją.
+when: You're stuck on minor tweaks; you want to force a different approach, not polish the current one.
+when_not: Incremental is enough, and a 10x leap would break something that works or is pure fantasy.
 ---
-Zamiast "o 10% lepiej" pytaj "jak o 10x lepiej" — cel rzędu wielkości wyżej unieważnia obecną ścieżkę i zmusza do przeprojektowania od zera, nie optymalizacji. Gdyby to musiało być dziesięć razy lepsze/tańsze/szybsze, co z dzisiejszego podejścia w ogóle bym wyrzucił?
+Instead of "10% better" ask "how to be 10x better" — a target an order of magnitude higher invalidates the current path and forces a redesign from scratch, not optimization. If it had to be ten times better/cheaper/faster, what would I throw out of today's approach entirely?

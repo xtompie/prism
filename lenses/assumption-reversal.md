@@ -1,6 +1,6 @@
 ---
 name: assumption-reversal
-when: Pomysły wyczerpane, wszystkie warianty brzmią podobnie; szukasz świeżego kierunku.
-when_not: Potrzebujesz zbieżności i decyzji, nie rozbijania ram.
+when: Ideas exhausted, all variants sound alike; you're looking for a fresh direction.
+when_not: You need convergence and a decision, not breaking the frame.
 ---
-Wypisz oczywiste założenia problemu, a potem odwróć każde ("a gdyby użytkownik NIE musiał się logować?") i szukaj, co wtedy staje się możliwe. Które "to musi tak być" jest naprawdę tylko przyzwyczajeniem — i co otwiera jego odwrócenie?
+List the obvious assumptions of the problem, then reverse each one ("what if the user did NOT have to log in?") and look for what becomes possible. Which "it has to be this way" is really just habit — and what does reversing it open up?

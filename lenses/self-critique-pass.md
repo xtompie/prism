@@ -1,6 +1,6 @@
 ---
 name: self-critique-pass
-when: Gdy skończyłeś draft i masz go oddać jako gotowy
-when_not: Gdy output jest trywialny albo koszt kolejnej iteracji za wysoki
+when: You've finished a draft and are about to hand it off as done.
+when_not: The output is trivial, or the cost of another iteration is too high.
 ---
-Potraktuj własny wynik jak cudzy i przejedź po nim osobnym przebiegiem krytyki. Zapytaj: gdybym miał surowo zrecenzować tę pracę, co bym tu wytknął i poprawił?
+Treat your own output as if it were someone else's and run a separate critique pass over it. Ask: if I had to review this work harshly, what would I flag and fix?

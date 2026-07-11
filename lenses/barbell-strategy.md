@@ -1,6 +1,6 @@
 ---
 name: barbell-strategy
-when: Gdy alokujesz zasoby lub ryzyko pod dużą niepewność
-when_not: Gdy problem wymaga jednego umiarkowanego, spójnego zakładu
+when: When you're allocating resources or risk under high uncertainty
+when_not: When the problem calls for a single moderate, coherent bet
 ---
-Łącz skrajną ostrożność z małą dawką skrajnego ryzyka, unikaj rozmytego środka. Zapytaj: czy chronię rdzeń bezpiecznie i osobno stawiam niewiele na duży, asymetryczny zysk?
+Combine extreme caution with a small dose of extreme risk, and avoid the blurry middle. Ask: am I protecting the core safely and separately staking a little on a big, asymmetric payoff?

@@ -1,6 +1,6 @@
 ---
 name: pareto-principle
-when: Gdy nakład rozkłada się równo na wiele rzeczy o różnej wadze
-when_not: Gdy wkłady i efekty są rozłożone naprawdę równomiernie
+when: effort is spread evenly across many things of differing weight
+when_not: inputs and effects really are spread evenly
 ---
-Zwykle mała część przyczyn daje większość efektów. Zapytaj: które ~20% tutaj odpowiada za ~80% wartości — i czy właśnie tam kieruję wysiłek?
+Usually a small share of causes yields most of the effects. Ask: which ~20% here accounts for ~80% of the value — and is that where I'm aiming my effort?

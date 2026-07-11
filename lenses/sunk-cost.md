@@ -1,6 +1,6 @@
 ---
 name: sunk-cost
-when: Gdy trzymasz się kursu, bo już dużo w niego włożono
-when_not: Gdy wcześniejsze inwestycje realnie zmieniają przyszłe wypłaty
+when: You're sticking to a course because so much has already gone into it.
+when_not: The earlier investments genuinely change future payoffs.
 ---
-Przeszłych, nieodzyskiwalnych kosztów już nie odzyskasz — nie powinny ważyć na decyzji. Zapytaj: czy podjąłbym ten sam wybór dziś od zera, gdyby tych kosztów w ogóle nie było?
+Past, unrecoverable costs are gone — they shouldn't weigh on the decision. Ask: would I make this same choice today from scratch, if those costs had never existed?

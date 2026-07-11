@@ -1,6 +1,6 @@
 ---
 name: survivorship-bias
-when: Gdy wyciągasz wnioski z widocznych sukcesów lub ocalałych przykładów
-when_not: Gdy dane obejmują też wszystkie przypadki nieudane
+when: You're drawing conclusions from visible successes or surviving examples.
+when_not: The data also covers all the failed cases.
 ---
-Patrzysz tylko na tych, co przetrwali — porażki zniknęły z pola widzenia. Zapytaj: kogo lub czego tu brakuje, bo nie dotrwał do momentu, w którym patrzę?
+You're only looking at those who survived — the failures dropped out of view. Ask: who or what is missing here because it didn't make it to the moment I'm looking at?

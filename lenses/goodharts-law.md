@@ -1,6 +1,6 @@
 ---
 name: goodharts-law
-when: Gdy definiujesz metrykę, cel lub KPI, którym ktoś będzie sterowany
-when_not: Gdy miara służy tylko obserwacji i nikt pod nią nie optymalizuje
+when: When you define a metric, target, or KPI that someone will be steered by
+when_not: When the measure is only for observation and nobody optimizes against it
 ---
-Gdy miara staje się celem, przestaje być dobrą miarą. Zapytaj: jak ktoś może ugrać tę metrykę, nie realizując wcale prawdziwego celu, który miała mierzyć?
+When a measure becomes a target, it stops being a good measure. Ask: how could someone game this metric without actually achieving the real goal it was meant to measure?

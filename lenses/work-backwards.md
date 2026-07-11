@@ -1,6 +1,6 @@
 ---
 name: work-backwards
-when: Cel jest jasny, ale droga do niego mglista; utknąłeś idąc od stanu obecnego.
-when_not: Cel niejasny lub wieloraki — najpierw go zdefiniuj.
+when: The goal is clear but the path to it is hazy; you're stuck going forward from the current state.
+when_not: The goal is unclear or manifold — define it first.
 ---
-Zacznij od pożądanego stanu końcowego i pytaj wstecz: "co musi być prawdą tuż przed tym?" — aż dojdziesz do miejsca, w którym stoisz. Jaki jest ostatni krok przed sukcesem i co go bezpośrednio umożliwia?
+Start from the desired end state and ask backward: "what has to be true just before this?" — until you reach where you're standing. What's the last step before success, and what directly enables it?
