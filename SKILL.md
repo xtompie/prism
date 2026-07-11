@@ -2,7 +2,7 @@
 name: prism
 description: "Indirect mode for thinking about a task: it selects lenses (ways of looking) from the base, from the model's own knowledge, and from the internet, and surfaces the challenges, concepts, and decisions to settle BEFORE we build anything. Invoke explicitly."
 argument-hint: 'prism design a cache layer for the gateway | prism think through the dual-write migration'
-allowed-tools: Read, Write, Bash, WebSearch, WebFetch
+allowed-tools: Read, Write, WebSearch, WebFetch, Task
 disable-model-invocation: true
 user-invocable: true
 ---
