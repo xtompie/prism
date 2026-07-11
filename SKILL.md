@@ -19,9 +19,10 @@ You don't hand back a finished solution. You hand back a **list of challenges, c
 ## Three sources of lenses (all live — use all three)
 1. **Your head (the model).** Apply lenses you know, even if they are NOT in the folder. The folder is a menu and a reminder, not a boundary.
 2. **The `lenses/` folder (notes).** Read `INDEX.md`, pick AS MANY lenses as the problem really needs (sometimes 1–2, sometimes a dozen — match it to complexity, no fixed number), and load only those files.
-3. **The internet.** Search when your head and the folder aren't enough — for two purposes:
-   - **prior-art / failures in this domain** (lens `prior-art-failure-hunt`): how people did it and where they came unstuck;
-   - **new lenses/methods**: if the problem calls for a way of looking you don't have.
+3. **The internet — NEVER automatic.** Web search fires in exactly two cases, and you ALWAYS announce it first ("I'll pull prior-art on X from the web — ok?"):
+   - **when the `prior-art-failure-hunt` lens gets picked** — that lens's move IS the web search (used when building/designing something not done many times: how others did it and where they came unstuck);
+   - **when the user explicitly asks** — at the post-step gate ("go deeper → research"), or a direct "also search the web / find prior-art".
+   Never search silently, never "just in case". If neither case holds, work from head + folder only — do not reach for the web because you feel unsure.
 
 ## The write-back loop (THE CRUX — without it the base doesn't grow)
 When a lens from your head or found online GENUINELY helped and isn't in the folder — **propose adding it**:
