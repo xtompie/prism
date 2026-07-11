@@ -45,10 +45,11 @@
   .lens.show{opacity:1;transform:none}
   .lens .n{color:var(--coral);min-width:210px}
   .lens .d{color:var(--dim)}
-  .keyline{margin-top:12px;opacity:0;transition:opacity .3s}
-  .keyline.show{opacity:1}
-  .ask{margin-top:10px;color:var(--text)}
-  .ask .arrow{color:var(--coral)}
+  .menu{margin-top:18px;opacity:0;transition:opacity .3s}
+  .menu.show{opacity:1}
+  .mtitle{font-weight:600;margin-bottom:6px}
+  .mopt{margin:2px 0;color:var(--text)}
+  .mnum{display:inline-block;width:22px;color:var(--coral);font-weight:600}
 </style>
 </head>
 <body>
@@ -58,7 +59,7 @@
     <!-- LEFT: direct -->
     <div class="col">
       <div class="inputbox">
-        <span class="prompt">&gt;</span>
+        <span class="prompt">❯</span>
         <span class="typed" id="tL"></span><span class="caret" id="cL"></span>
       </div>
       <div class="resp" id="rL">
@@ -75,19 +76,25 @@
     <!-- RIGHT: prism -->
     <div class="col">
       <div class="inputbox">
-        <span class="prompt">&gt;</span>
+        <span class="prompt">❯</span>
         <span class="typed" id="tR"></span><span class="caret" id="cR"></span>
       </div>
       <div class="resp" id="rR">
         <div class="lead">Before I write any HTML — the decisions that make it good:</div>
         <div class="lens" data-i="0"><span class="n">◆ reverse-prompting</span><span class="d">who's it for, and the ONE action?</span></div>
         <div class="lens" data-i="1"><span class="n">◆ jobs-to-be-done</span><span class="d">what job is a note app hired for? sell that, not features</span></div>
-        <div class="lens" data-i="2"><span class="n">◆ rubric-first</span><span class="d">define "good" for THIS page before designing</span></div>
-        <div class="lens" data-i="3"><span class="n">◆ define-the-edge</span><span class="d">say where it STOPS — "not for X"</span></div>
-        <div class="lens" data-i="4"><span class="n">◆ name-the-failure-mode</span><span class="d">forbid the AI-slop landing outright</span></div>
-        <div class="lens" data-i="5"><span class="n">◆ bind-output-to-intent</span><span class="d">before shipping, check it delivers the declared direction</span></div>
-        <div class="keyline" id="key"><span class="muted">the one that unblocks the rest:</span> nail the audience + the one differentiating job — before any pixels.</div>
-        <div class="ask" id="ask"><span class="arrow">→</span> Go deeper (another round of lenses / research), or move to execution?</div>
+        <div class="lens" data-i="2"><span class="n">◆ define-the-edge</span><span class="d">what is it explicitly NOT for?</span></div>
+        <div class="lens" data-i="3"><span class="n">◆ name-the-failure-mode</span><span class="d">ban generic AI-slop up front</span></div>
+        <div class="lens" data-i="4"><span class="n">◆ rubric-first</span><span class="d">define "a good page" before building, not after</span></div>
+        <div class="lens" data-i="5"><span class="n">◆ bind-output-to-intent</span><span class="d">before delivering, check it hits the chosen direction</span></div>
+        <div class="menu" id="menu">
+          <div class="mtitle">What next?</div>
+          <div class="mopt"><span class="mnum">1</span> Look again in my head</div>
+          <div class="mopt"><span class="mnum">2</span> Look again in the notes</div>
+          <div class="mopt"><span class="mnum">3</span> Search the web for a new lens</div>
+          <div class="mopt"><span class="mnum">4</span> Execute it</div>
+          <div class="mopt"><span class="mnum">5</span> Execute in sub-agents</div>
+        </div>
       </div>
     </div>
   </div>
@@ -98,22 +105,21 @@ const R="/prism make me a landing page for my note app";
 const el=id=>document.getElementById(id);
 const tL=el('tL'),tR=el('tR'),cL=el('cL'),cR=el('cR'),rL=el('rL'),rR=el('rR');
 const lenses=[...document.querySelectorAll('.lens')];
-const key=el('key'),ask=el('ask');
+const menu=el('menu');
 const TYPE0=400, CPS=26;
 const typeEnd=TYPE0+Math.max(L.length,R.length)*CPS;
 const leftT=typeEnd+250, rightT=leftT+350;
 const lensT=i=>rightT+150+i*180;
-const keyT=lensT(lenses.length-1)+250, askT=keyT+400, END=askT+10000;
+const menuT=lensT(lenses.length-1)+350, END=menuT+10000;
 function seek(t){
   tL.textContent=L.slice(0,Math.max(0,Math.floor((t-TYPE0)/CPS)));
   tR.textContent=R.slice(0,Math.max(0,Math.floor((t-TYPE0)/CPS)));
   cL.style.visibility=(t>=TYPE0&&t<typeEnd)?'visible':'hidden';
-  cR.style.visibility=(t>=TYPE0&&t<askT)?'visible':'hidden';
+  cR.style.visibility=(t>=TYPE0&&t<menuT)?'visible':'hidden';
   rL.classList.toggle('show',t>=leftT);
   rR.classList.toggle('show',t>=rightT);
   lenses.forEach((l,i)=>l.classList.toggle('show',t>=lensT(i)));
-  key.classList.toggle('show',t>=keyT);
-  ask.style.opacity=t>=askT?1:0;
+  menu.classList.toggle('show',t>=menuT);
 }
 window.seek=seek; window.DEMO_END=END;
 if(!location.search.includes('capture')){
