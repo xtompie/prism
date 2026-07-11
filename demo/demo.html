@@ -99,11 +99,11 @@ const el=id=>document.getElementById(id);
 const tL=el('tL'),tR=el('tR'),cL=el('cL'),cR=el('cR'),rL=el('rL'),rR=el('rR');
 const lenses=[...document.querySelectorAll('.lens')];
 const key=el('key'),ask=el('ask');
-const TYPE0=600, CPS=42;
+const TYPE0=400, CPS=26;
 const typeEnd=TYPE0+Math.max(L.length,R.length)*CPS;
-const leftT=typeEnd+350, rightT=leftT+500;
-const lensT=i=>rightT+200+i*260;
-const keyT=lensT(lenses.length-1)+300, askT=keyT+500, END=askT+2600;
+const leftT=typeEnd+250, rightT=leftT+350;
+const lensT=i=>rightT+150+i*180;
+const keyT=lensT(lenses.length-1)+250, askT=keyT+400, END=askT+10000;
 function seek(t){
   tL.textContent=L.slice(0,Math.max(0,Math.floor((t-TYPE0)/CPS)));
   tR.textContent=R.slice(0,Math.max(0,Math.floor((t-TYPE0)/CPS)));
