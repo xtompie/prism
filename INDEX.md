@@ -30,6 +30,7 @@
 | `cunninghams-law` | Hard to extract an answer or knowledge by asking directly; silence in response to a question. |
 | `cynefin` | you don't know whether to plan, analyze, experiment, or fight a fire |
 | `debiasing` | at an important judgment or estimate |
+| `decoy-effect` | presenting options and the framing will steer which one gets chosen |
 | `defense-in-depth` | Stakes are high and a single mechanism can fail (security, quality, reliability). |
 | `define-the-edge` | you're positioning a tool/solution and tempted to say "good for everything" |
 | `dialectic` | Two claims seem contradictory and you pick one, losing something valuable from the other. |
@@ -67,9 +68,11 @@
 | `lindy` | you're choosing a foundation/technology for the long haul |
 | `linus-law` | you want to catch bugs or flaws in your work (code, text, plan, decision) |
 | `local-vs-global-optimum` | you're optimizing and stuck on a "pretty good" result |
+| `loss-aversion` | you're framing an offer, change, or default and the wording will sway the choice |
 | `map-territory` | you're relying on a model, diagram, metric, or abstraction |
 | `margin-of-safety` | you're designing something that must survive unknown/extreme conditions |
 | `means-ends-analysis` | a big gap between the current state and the goal; you need to close it systematically |
+| `mental-accounting` | cost or value is judged by which mental "bucket" it lands in, not its absolute size |
 | `model-combination` | one model gives a suspiciously clean answer |
 | `model-selection` | the problem is multidimensional and one lens isn't enough |
 | `morphological-analysis` | you're designing something with many dimensions and want to cover the full space of variants |
