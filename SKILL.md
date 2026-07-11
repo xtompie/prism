@@ -19,10 +19,7 @@ You don't hand back a finished solution. You hand back a **list of challenges, c
 ## Three sources of lenses (all live — use all three)
 1. **Your head (the model).** Apply lenses you know, even if they are NOT in the folder. The folder is a menu and a reminder, not a boundary.
 2. **The `lenses/` folder (notes).** Read `INDEX.md`, pick AS MANY lenses as the problem really needs (sometimes 1–2, sometimes a dozen — match it to complexity, no fixed number), and load only those files.
-3. **The internet — NEVER automatic.** Web search fires in exactly two cases, and you ALWAYS announce it first ("I'll pull prior-art on X from the web — ok?"):
-   - **when the `prior-art-failure-hunt` lens gets picked** — that lens's move IS the web search (used when building/designing something not done many times: how others did it and where they came unstuck);
-   - **when the user explicitly asks** — at the post-step gate ("go deeper → research"), or a direct "also search the web / find prior-art".
-   Never search silently, never "just in case". If neither case holds, work from head + folder only — do not reach for the web because you feel unsure.
+3. **The internet — never automatic, never silent.** This is a standing policy, not tied to any single lens (lenses can change or be removed). After you present the lens output (Process step 5), ALWAYS offer web search as an explicit option, and only run it on the user's OK. Its purpose: how OTHERS built this and where they FAILED — prior-art, post-mortems, "gotchas" — the traps and concepts you'd otherwise miss. If the user declines, work from head + folder only; never reach for the web just because you feel unsure.
 
 ## The write-back loop (THE CRUX — without it the base doesn't grow)
 When a lens from your head or found online GENUINELY helped and isn't in the folder — **propose adding it**:
@@ -37,7 +34,7 @@ When a lens from your head or found online GENUINELY helped and isn't in the fol
 4. Apply each → write down what it surfaced: challenges, decisions, concepts, risks, alternatives.
 5. Collect it into one list, group it, mark what is CRITICAL and needs a user decision.
 6. If good new lenses came up (head/internet) — run the write-back loop.
-7. **Post-step gate:** ask the user — go deeper (another round of lenses / research), or move to execution? Don't proceed on your own.
+7. **Post-step gate:** present the list first, then ask the user — (a) go deeper with another round of lenses, (b) search the web for prior-art (how others did this and where they failed), or (c) move to execution? Never search the web or proceed on your own — wait for the choice.
 
 ## Rules
 - No hard-coded domain vocabulary in the lenses — the domain specifics come from research and the task, not from the file.
