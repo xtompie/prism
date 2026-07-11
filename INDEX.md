@@ -1,10 +1,3 @@
-# Prism — lens INDEX
-
-Menu to scan: pick AS MANY lenses as the problem really needs (1–2 for simple, more for tangled) — match it to complexity, no fixed number.
-Not a boundary — also use lenses beyond this list (from the model's head / the internet) and add new ones.
-
-Lenses: 139
-
 | lens | when to use |
 |------|-------------|
 | `10x-thinking` | You're stuck on minor tweaks; you want to force a different approach, not polish the current one. |
