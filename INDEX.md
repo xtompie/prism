@@ -3,7 +3,7 @@
 Menu to scan: pick AS MANY lenses as the problem really needs (1–2 for simple, more for tangled) — match it to complexity, no fixed number.
 Not a boundary — also use lenses beyond this list (from the model's head / the internet) and add new ones.
 
-Lenses: 140
+Lenses: 139
 
 | lens | when to use |
 |------|-------------|
@@ -14,7 +14,6 @@ Lenses: 140
 | `anchoring` | When the first number or proposal shapes your judgment |
 | `antifragility` | When you're designing something for uncertainty, volatility, and shocks |
 | `assumption-reversal` | Ideas exhausted, all variants sound alike; you're looking for a fresh direction. |
-| `ban-second-order-defaults` | the first bans didn't remove the cliché |
 | `barbell-strategy` | When you're allocating resources or risk under high uncertainty |
 | `batna` | When you're negotiating or entering an agreement with another party |
 | `bayesian` | you're assessing probability/risk with incomplete data |
@@ -29,11 +28,11 @@ Lenses: 140
 | `chestertons-fence` | Before you remove or change an existing solution, rule, or piece of code |
 | `circle-of-competence` | you're entering an area where you're unsure of your knowledge |
 | `commanders-intent` | you're delegating a task or writing a spec where the details will change |
-| `commit-to-an-extreme` | the start of creative work, when a safe, lukewarm average threatens |
+| `commit-to-an-extreme` | converging on creative work, when a safe lukewarm average threatens — you already know the options |
 | `comparative-advantage` | You're dividing work/tasks among people, tools, or your own time. |
 | `concede-first` | you're persuading a hostile or skeptical audience of a contrarian claim |
 | `constraint-relaxation` | the solution space seems closed by "it's impossible, because X" |
-| `constraints-first` | you're starting to design a solution |
+| `constraints-first` | you're starting to design and the space is bounded by hard limits (time, cost, dependencies, non-negotiables) |
 | `conways-law` | you're designing an architecture or diagnosing its oddities |
 | `cunninghams-law` | Hard to extract an answer or knowledge by asking directly; silence in response to a question. |
 | `cynefin` | you don't know whether to plan, analyze, experiment, or fight a fire |
@@ -82,12 +81,12 @@ Lenses: 140
 | `model-selection` | the problem is multidimensional and one lens isn't enough |
 | `morphological-analysis` | you're designing something with many dimensions and want to cover the full space of variants |
 | `name-the-failure-mode` | creative work (UI, text, name) — cliché looms |
-| `negative-examples` | you're defining the expected outcome, style, or scope |
+| `negative-examples` | you're pinning down expected output/style/scope and misreads are likely |
 | `oblique-strategies` | you're stuck and your thinking keeps circling the same rut |
 | `occams-razor` | you have several competing explanations or solutions |
 | `ooda` | the situation is fluid and changing fast |
 | `opportunity-cost` | you're choosing one of several paths under limited time/resources |
-| `option-diversity` | before you start building/writing anything |
+| `option-diversity` | exploring, before committing — you need genuinely different approaches on the table |
 | `pareto-principle` | effort is spread evenly across many things of differing weight |
 | `parkinsons-law` | you're planning time, scope of work, or resource allocation |
 | `path-dependence` | you're figuring out why something has a strange shape, or designing a long-tailed decision |
@@ -108,7 +107,7 @@ Lenses: 140
 | `regret-minimization` | a big, personal, or long-term decision |
 | `requisite-variety` | Something has to control/handle a variable environment (a process, test, team, interface, defense). |
 | `restate-the-problem` | You're going in circles; the current framing forces blind solutions. |
-| `reverse-prompting` | When the task is underspecified and wrong assumptions are costly |
+| `reverse-prompting` | the task is underspecified and you're missing answers only the requester has (audience, goal, the one action) |
 | `reversibility` | you're weighing how fast/carefully to make a decision |
 | `role-assignment` | you want to unlock a specific mode of thinking or standard of judgment |
 | `rubber-duck` | you're stuck on a problem or bug you can't pin down |

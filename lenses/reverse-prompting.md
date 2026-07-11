@@ -1,6 +1,6 @@
 ---
 name: reverse-prompting
-when: When the task is underspecified and wrong assumptions are costly
-when_not: When the task is clear and asking questions only delays it
+when: the task is underspecified and you're missing answers only the requester has (audience, goal, the one action)
+when_not: nothing is missing from the requester — if the blocker is hard limits, use constraints-first
 ---
-Ask for the missing requirements first, then produce. Ask: what do I need to learn from the requester before I start building anything at all?
+Ask for the missing inputs first, then produce. Ask: what must I learn from the requester before building anything at all?
