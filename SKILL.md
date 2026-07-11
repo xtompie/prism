@@ -18,7 +18,7 @@ Nie oddajesz gotowego rozwiazania. Oddajesz **liste wyzwan, pojec, pulapek i dec
 
 ## Trzy zrodla soczewek (wszystkie zywe — uzywaj wszystkich trzech)
 1. **Twoja glowa (model).** Zastosuj soczewki, ktore znasz, nawet jesli NIE ma ich w folderze. Folder to menu i przypominajka, nie granica.
-2. **Folder `lenses/` (notatki).** Przeczytaj `INDEX.md`, wybierz 3–6 soczewek pasujacych do zadania, wczytaj tylko te pliki.
+2. **Folder `lenses/` (notatki).** Przeczytaj `INDEX.md`, wybierz TYLE soczewek, ile problem realnie wymaga (czasem 1–2, czasem kilkanascie — dopasuj do zlozonosci, bez sztywnej liczby), wczytaj tylko te pliki.
 3. **Internet.** Szukaj gdy glowa i folder nie wystarczaja — w dwoch celach:
    - **prior-art / porazki tej domeny** (soczewka `prior-art-failure-hunt`): jak ludzie to robili i na czym polegli;
    - **nowe soczewki/metody**: jesli problem wola o sposob patrzenia, ktorego nie masz.
@@ -32,7 +32,7 @@ Gdy soczewka z Twojej glowy albo znaleziona w sieci REALNIE pomogla, a nie ma je
 ## Proces
 1. Stresc zadanie w 1–2 zdaniach — o co naprawde chodzi.
 2. **Gate wejsciowy:** jesli zadanie jest male / odwracalne / rutynowe — powiedz to wprost i zaproponuj zejscie z trybu Prism. Nie przykladaj soczewek na sile.
-3. Dobierz 3–6 soczewek z trzech zrodel powyzej. Lepiej malo trafnych niz duzo na sile.
+3. Dobierz tyle soczewek, ile zadanie realnie wymaga — liczbe dopasuj do zlozonosci problemu, NIE do zadnej sztywnej wartosci. Proste zadanie: 1–2. Zawile/wielowatkowe: nawet kilkanascie. Kryterium to trafnosc dopasowania, nie liczba; lepiej pominac soczewke luzno pasujaca niz dokladac na sile.
 4. Przyloz kazda → wypisz, co wydobyla: wyzwania, decyzje, pojecia, ryzyka, alternatywy.
 5. Zbierz w jedna liste, pogrupuj, zaznacz co jest KRYTYCZNE i wymaga decyzji uzytkownika.
 6. Jesli pojawily sie dobre nowe soczewki (glowa/internet) — uruchom Petle zapisu.

@@ -1,9 +1,9 @@
 # Prism — INDEX soczewek
 
-Menu do skanowania: wybierz 3–6 pasujacych, wczytaj tylko ich pliki z `lenses/`.
+Menu do skanowania: wybierz TYLE soczewek, ile problem realnie wymaga (1–2 dla prostych, wiecej dla zawilych) — dopasuj do zlozonosci, bez sztywnej liczby.
 To nie granica — stosuj tez soczewki spoza listy (z glowy / z internetu) i dopisuj nowe.
 
-Soczewek: 121
+Soczewek: 138
 
 | soczewka | kiedy uzyc |
 |----------|-----------|
@@ -18,15 +18,20 @@ Soczewek: 121
 | `barbell-strategy` | Gdy alokujesz zasoby lub ryzyko pod dużą niepewność |
 | `batna` | Gdy negocjujesz lub wchodzisz w porozumienie z drugą stroną |
 | `bayesian` | oceniasz prawdopodobieństwo/ryzyko przy niepełnych danych |
+| `betteridges-law` | napotykasz nagłówek lub tezę postawioną jako pytanie („Czy X to przełom?”) |
 | `bikeshedding` | Dyskusja/przegląd grzęźnie; dużo energii idzie na jeden temat. |
 | `bind-output-to-intent` | tuz przed oddaniem wyniku pracy tworczej |
+| `bisociation` | szukasz naprawdę nowego pomysłu, a warianty w obrębie dziedziny się wyczerpały |
 | `bounded-rationality` | analiza sie przeciaga, a decyzja jest odwracalna/malo wazna |
+| `braess-paradox` | chcesz poprawić przepływ lub wydajność systemu, dokładając zasób, drogę albo opcję |
 | `brandolinis-law` | Ważysz, czy prostować błędne twierdzenie / słaby argument / bałagan. |
 | `chain-of-verification` | Gdy output zawiera fakty lub liczby, które mogą być zmyślone |
 | `chestertons-fence` | Zanim usuniesz lub zmienisz istniejące rozwiązanie, regułę albo kod |
 | `circle-of-competence` | wchodzisz w obszar, w którym nie jesteś pewny wiedzy |
+| `commanders-intent` | delegujesz zadanie lub piszesz spec w warunkach, gdzie szczegóły się zmienią |
 | `commit-to-an-extreme` | start pracy tworczej, gdy grozi bezpieczna, letnia srednia |
 | `comparative-advantage` | Dzielisz pracę/zadania między ludzi, narzędzia lub własny czas. |
+| `constraint-relaxation` | przestrzeń rozwiązań wydaje się zamknięta przez „to niemożliwe, bo X” |
 | `constraints-first` | zaczynasz projektować rozwiązanie |
 | `conways-law` | projektujesz architekture lub diagnozujesz jej dziwnosci |
 | `cunninghams-law` | Trudno wydobyć odpowiedź/wiedzę pytając wprost; cisza w odpowiedzi na pytanie. |
@@ -49,24 +54,31 @@ Soczewek: 121
 | `five-whys` | masz objaw/awarię i chcesz przyczynę źródłową, nie plaster |
 | `galls-law` | Gdy projektujesz złożony system lub proces od podstaw |
 | `goodharts-law` | Gdy definiujesz metrykę, cel lub KPI, którym ktoś będzie sterowany |
+| `greshams-law` | gorsza i lepsza wersja czegoś krążą obok siebie, traktowane jak równoważne |
 | `hanlons-razor` | tlumaczysz cudze (lub systemu) zachowanie |
+| `hofstadters-law` | szacujesz czas lub wysiłek zadania, zwłaszcza złożonego lub nowego |
+| `homeostasis` | wprowadzasz zmianę do układu, który sam się reguluje (zespół, rynek, organizm, proces) |
 | `how-might-we` | Gdy problem jest sformułowany jako blokada lub skarga |
 | `hyrums-law` | Gdy zmieniasz API, interfejs lub format, na którym ktoś polega |
 | `impact-effort` | masz liste zadan/opcji i ograniczony czas |
 | `inversion` | planujesz coś, gdzie optymizm może chować ryzyka |
 | `issue-trees` | problem jest duzy/mglisty i trzeba go rozlozyc |
+| `jevons-paradox` | zwiększasz wydajność lub obniżasz koszt zużycia zasobu (czas, pieniądz, energia, uwaga) |
 | `jobs-to-be-done` | projektujesz produkt/feature/API dla użytkownika |
 | `kepner-tregoe` | trudny bug/incydent i mnóstwo możliwych przyczyn |
+| `kernighans-law` | kusi Cię najsprytniejsze, maksymalnie zmyślne rozwiązanie na granicy Twoich możliwości |
 | `ladder-of-inference` | szybko doszedles do wniosku i chcesz sprawdzic, czy nie za szybko |
 | `law-of-the-instrument` | Gdy odruchowo sięgasz po znane narzędzie lub podejście |
 | `leverage-points` | chcesz zmienić zachowanie systemu, ale masz mało siły przebicia |
 | `lindy` | wybierasz fundament/technologię na długo |
+| `linus-law` | chcesz wyłapać błędy lub wady w swojej pracy (kod, tekst, plan, decyzja) |
 | `local-vs-global-optimum` | Gdy optymalizujesz i utknąłeś na "całkiem niezłym" wyniku |
 | `map-territory` | opierasz się na modelu, diagramie, metryce albo abstrakcji |
 | `margin-of-safety` | projektujesz coś, co musi wytrzymać nieznane/skrajne warunki |
 | `means-ends-analysis` | Duży dystans między stanem obecnym a celem; potrzeba systematycznego domykania luki. |
 | `model-combination` | jeden model daje podejrzanie czysta odpowiedz |
 | `model-selection` | problem jest wielowymiarowy i jedna soczewka nie wystarcza |
+| `morphological-analysis` | projektujesz coś o wielu wymiarach i chcesz pokryć pełną przestrzeń wariantów |
 | `name-the-failure-mode` | praca tworcza (UI, tekst, nazwa) — grozi sztampa |
 | `negative-examples` | Gdy definiujesz oczekiwany wynik, styl lub zakres |
 | `oblique-strategies` | Gdy utknąłeś i myślenie kręci się w tej samej koleinie |
@@ -96,14 +108,19 @@ Soczewek: 121
 | `restate-the-problem` | Kręcisz się w kółko; obecne sformułowanie problemu narzuca ślepe rozwiązania. |
 | `reverse-prompting` | Gdy zadanie jest niedookreślone, a błędne założenia kosztowne |
 | `reversibility` | ważysz jak szybko/ostrożnie podjąć decyzję |
+| `role-assignment` | chcesz odblokować konkretny tryb myślenia lub standard oceny |
+| `rubber-duck` | utknąłeś w problemie lub błędzie, którego nie potrafisz zlokalizować |
 | `rubric-first` | Gdy masz tworzyć output bez jasno zdefiniowanych kryteriów jakości |
 | `sagan-standard` | Gdy oceniasz twierdzenie odbiegające od tego, co dobrze ustalone |
 | `scamper` | trzeba wygenerowac warianty istniejacego rozwiazania |
+| `scenario-planning` | planujesz w warunkach głębokiej niepewności co do przyszłości |
 | `schelling-point` | Gdy strony muszą się skoordynować bez możliwości komunikacji |
 | `scientific-method` | masz hipotezę/założenie, na którym oprzesz dużo pracy |
 | `second-order` | decyzja ma skutki uboczne albo sprzężenia w czasie |
 | `self-consistency` | Odpowiedź/estymata jest zawodna, a istnieje wiele niezależnych dróg do niej. |
 | `self-critique-pass` | Gdy skończyłeś draft i masz go oddać jako gotowy |
+| `show-your-reasoning` | grozi Ci odpowiedź „z automatu”, a sprawa realnie wymaga rozumowania |
+| `simpsons-paradox` | wnioskujesz z danych zagregowanych (średnia, wskaźnik ogólny, jeden słupek) |
 | `six-hats` | ocena pomyslu, gdy grozi jednostronnosc |
 | `skin-in-the-game` | Gdy ktoś doradza lub decyduje o skutkach ponoszonych przez innych |
 | `socratic` | coś „wiadomo”, że jest prawdą, ale nikt tego nie sprawdził |
