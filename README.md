@@ -9,48 +9,11 @@ A skill for Claude Code that enforces an **"indirect"** mode: instead of rushing
 
 ## Demo
 
-Task: **design a cache layer for an API gateway**
+`ask` = the direct answer. `prism` = the decisions that actually make it good, surfaced *before* you build.
 
-**Direct** — `design a cache layer for the gateway`:
+![Prism turning a landing-page request from generic slop into the decisions that matter](demo/prism-demo.gif)
 
-> Add Redis, cache responses with a TTL, use cache-aside. Done.
-
-**With Prism** — `/prism design a cache layer for the gateway`:
-
-> Lenses picked: `first-principles`, `constraints-first`, `prior-art-failure-hunt`, `inversion`, `second-order`, `theory-of-constraints`.
->
-> Challenges & decisions to settle **before** writing code:
-> - **Resolver ≠ cache ≠ data-source** — three separate concerns; conflating them smears invalidation logic everywhere.
-> - **Invalidation strategy** (the actual hard part): TTL vs event-based vs per-entity — decide before the schema.
-> - **Many-to-many keys** — one resolver reads many sources; one source feeds many resolvers → cache-key and invalidation fan-out.
-> - **Cache stampede** on a miss (thundering herd) → single-flight / stale-while-revalidate?
-> - **Dual-write trap** — source write succeeds but cache update fails → who wins, and how do you detect drift?
-> - **Consistency budget** — strong vs stale-while-revalidate, per endpoint.
-> - **Bottleneck metric** (ToC): cache hit-rate is the number to optimize — instrument it first.
->
-> → Settle these, then I'll propose an architecture. Go deeper, or move to design?
-
-And it isn't just for code. Same skill, a life decision — **should I switch careers?**
-
-**Direct:**
-
-> It depends on your goals. Weigh the pros and cons, follow your passion, and keep some savings.
-
-**With Prism** — `/prism should I switch careers?`:
-
-> Lenses picked: `regret-minimization`, `inversion`, `opportunity-cost`, `reversibility`, `outside-view`, `circle-of-competence`.
->
-> Questions to settle **before** deciding:
-> - **Toward or away?** Running *to* the new thing, or *from* the current one? Different diagnosis, different fix.
-> - **One-way or two-way door?** If it flops, can you come back — and at what cost?
-> - **Outside view:** how do people who made this exact switch actually fare — not your optimistic story?
-> - **Opportunity cost:** what do you concretely give up (pay, seniority, network) vs gain?
-> - **Failure modes (inversion):** romanticizing the new field, no runway, burning bridges.
-> - **Regret test:** at 70, which choice do you regret less?
->
-> → Which of these do you *know* vs *assume*? Answer those first. Go deeper, or decide now?
-
-Same question, either domain. One answer ships shallow; the other surfaces the decisions that actually shape the outcome.
+Same request, either way. The direct answer ships the page 10,000 products already shipped; Prism asks *who is this for* and *what one action* — and the copy, look, and CTA stop being guesses.
 
 ## What is a lens?
 
