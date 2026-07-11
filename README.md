@@ -30,7 +30,27 @@ Task: **design a cache layer for an API gateway**
 >
 > → Settle these, then I'll propose an architecture. Go deeper, or move to design?
 
-Same question. One answer ships shallow; the other surfaces the decisions that actually shape the system.
+And it isn't just for code. Same skill, a life decision — **should I switch careers?**
+
+**Direct:**
+
+> It depends on your goals. Weigh the pros and cons, follow your passion, and keep some savings.
+
+**With Prism** — `/prism should I switch careers?`:
+
+> Lenses picked: `regret-minimization`, `inversion`, `opportunity-cost`, `reversibility`, `outside-view`, `circle-of-competence`.
+>
+> Questions to settle **before** deciding:
+> - **Toward or away?** Running *to* the new thing, or *from* the current one? Different diagnosis, different fix.
+> - **One-way or two-way door?** If it flops, can you come back — and at what cost?
+> - **Outside view:** how do people who made this exact switch actually fare — not your optimistic story?
+> - **Opportunity cost:** what do you concretely give up (pay, seniority, network) vs gain?
+> - **Failure modes (inversion):** romanticizing the new field, no runway, burning bridges.
+> - **Regret test:** at 70, which choice do you regret less?
+>
+> → Which of these do you *know* vs *assume*? Answer those first. Go deeper, or decide now?
+
+Same question, either domain. One answer ships shallow; the other surfaces the decisions that actually shape the outcome.
 
 ## Three sources of lenses (all live)
 
