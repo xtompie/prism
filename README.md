@@ -9,7 +9,7 @@ A skill for Claude Code that enforces an **"indirect"** mode: instead of rushing
 
 ## Demo
 
-`ask` = the direct answer. `prism` = the decisions that actually make it good, surfaced *before* you build.
+Left: a normal request → instant generic slop. Right: the same request with `/prism` → the decisions that actually make it good, *before* any HTML.
 
 ![Prism turning a landing-page request from generic slop into the decisions that matter](demo/prism-demo.gif)
 
