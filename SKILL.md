@@ -19,7 +19,7 @@ You don't hand back a finished solution. You hand back a **list of challenges, c
 ## Three sources of lenses (all live — use all three)
 1. **Your head (the model).** Apply lenses you know, even if they are NOT in the folder. The folder is a menu and a reminder, not a boundary.
 2. **The `lenses/` folder (notes).** Read `INDEX.md`, pick AS MANY lenses as the problem really needs (sometimes 1–2, sometimes a dozen — match it to complexity, no fixed number), and load only those files.
-3. **The internet — never automatic, never silent.** This is a standing policy, not tied to any single lens (lenses can change or be removed). After you present the lens output (Process step 5), ALWAYS offer web search as an explicit option, and only run it on the user's OK. Its purpose: how OTHERS built this and where they FAILED — prior-art, post-mortems, "gotchas" — the traps and concepts you'd otherwise miss. If the user declines, work from head + folder only; never reach for the web just because you feel unsure.
+3. **The internet — never automatic, never silent.** A standing policy, not tied to any single lens (lenses can change or be removed). Its purpose here: find a NEW way of looking / method suited to this KIND of problem — a candidate for a new lens — NOT task-specific facts. It is offered only as an explicit menu choice (Process step 7, option 3) and runs only on the user's OK. If a good new lens turns up, offer to save it to the base (write-back loop). Never reach for the web on your own.
 
 ## The write-back loop (THE CRUX — without it the base doesn't grow)
 When a lens from your head or found online GENUINELY helped and isn't in the folder — **propose adding it**:
@@ -34,7 +34,17 @@ When a lens from your head or found online GENUINELY helped and isn't in the fol
 4. Apply each → write down what it surfaced: challenges, decisions, concepts, risks, alternatives.
 5. Collect it into one list, group it, mark what is CRITICAL and needs a user decision.
 6. If good new lenses came up (head/internet) — run the write-back loop.
-7. **Post-step gate:** present the list first, then ask the user — (a) go deeper with another round of lenses, (b) search the web for prior-art (how others did this and where they failed), or (c) move to execution? Never search the web or proceed on your own — wait for the choice.
+7. **Post-step gate — the menu (a loop).** First present the surfaced list (merge/dedupe so each lens shows once). Then ask plainly and offer a numbered menu:
+
+   **What next?**
+   1. **Look again in my head** — surface more lenses I know that we haven't applied yet.
+   2. **Look again in the notes** — re-scan the base for lenses we skipped.
+   3. **Search the web** — hunt for a new way of looking for this kind of problem (a candidate lens).
+   4. **Execute** — stop analyzing and build it.
+   5. **Execute, one agent per lens** — run each selected lens in its own subagent (isolated, parallel), then synthesize.
+   6. *(shown ONLY if a new lens surfaced this run)* **Add to the base** — save the new lens(es) to `lenses/` (write-back).
+
+   After options 1, 2, or 3: fold the new findings into the list (dedupe), then re-present the updated list and this menu again — loop. Only 4 or 5 ends the loop. Option 6 appears only when something genuinely new (from head or web) turned up; list the candidates comma-separated so the user can take all or some. Never search the web, spawn agents, write to the base, or proceed on your own — always wait for the choice. The user may type a number, several, or just say what they want in words — follow that.
 
 ## Rules
 - No hard-coded domain vocabulary in the lenses — the domain specifics come from research and the task, not from the file.

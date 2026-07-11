@@ -91,7 +91,6 @@
 | `pre-mortem` | before a full project, launch, or irreversible decision |
 | `principal-agent-problem` | Someone (or something) acts on your behalf and their interests may diverge from yours. |
 | `principle-of-least-astonishment` | When you design an interface, name, or behavior for a user |
-| `prior-art-failure-hunt` | building/designing something you haven't done by heart many times |
 | `probabilistic` | the future is uncertain and you're thinking in a single scenario |
 | `quit-thinking-and-look` | a bug/failure, before you start guessing at the cause |
 | `red-team` | a system/plan has to survive attack, abuse, or circumvention |
@@ -121,6 +120,7 @@
 | `solve-a-simpler-problem` | The problem is too big/general to grapple with; you don't know where to start. |
 | `steel-manning` | You want to reject some approach or argument. |
 | `streetlight-effect` | You're looking for answers or data where it's easiest to look. |
+| `study-the-edges` | learning or designing something whose real limits you don't yet know |
 | `sturgeons-law` | You're assessing a set of options, examples, vendors, sources — and want to set expectations. |
 | `sunk-cost` | You're sticking to a course because so much has already gone into it. |
 | `survivorship-bias` | You're drawing conclusions from visible successes or surviving examples. |
