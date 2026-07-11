@@ -40,9 +40,9 @@ When a lens from your head or found online GENUINELY helped and isn't in the fol
    1. **Look again in my head** — surface more lenses I know that we haven't applied yet.
    2. **Look again in the notes** — re-scan the base for lenses we skipped.
    3. **Search the web** — hunt for a new way of looking for this kind of problem (a candidate lens).
-   4. **Execute** — stop analyzing and build it.
-   5. **Execute, one agent per lens** — run each selected lens in its own subagent (isolated, parallel), then synthesize.
-   6. *(shown ONLY if a new lens surfaced this run)* **Add to the base** — save the new lens(es) to `lenses/` (write-back).
+   4. **Execute it** — stop analyzing and do the task.
+   5. **Execute in sub-agents** — run each selected lens as its own sub-agent (isolated, parallel), then synthesize.
+   6. *(shown ONLY if a new lens surfaced this run)* **Add to the base** — save the new lens(es) to the skill's `lenses/` folder (`~/.claude/skills/prism/lenses/`) via the write-back loop.
 
    After options 1, 2, or 3: fold the new findings into the list (dedupe), then re-present the updated list and this menu again — loop. Only 4 or 5 ends the loop. Option 6 appears only when something genuinely new (from head or web) turned up; list the candidates comma-separated so the user can take all or some. Never search the web, spawn agents, write to the base, or proceed on your own — always wait for the choice. The user may type a number, several, or just say what they want in words — follow that.
 
