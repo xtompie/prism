@@ -52,6 +52,19 @@ And it isn't just for code. Same skill, a life decision — **should I switch ca
 
 Same question, either domain. One answer ships shallow; the other surfaces the decisions that actually shape the outcome.
 
+## What is a lens?
+
+A lens is a reusable *way of looking* at a problem — a tiny spell that switches how the model examines the task. It isn't a solution, domain knowledge, or a procedure: it doesn't give the answer, it changes the angle and forces a question you'd otherwise skip. (Same scene, thermal filter vs polarizing filter — different features pop.)
+
+**Example — the `inversion` lens.** Instead of *"how do I make this succeed?"* it asks *"how would I guarantee this fails?"*
+
+Planning a team offsite:
+
+- **Direct:** "how do I make it great?" → vague ("nice place, good vibe").
+- **Inverted:** "how would I guarantee a disaster?" → concrete: no budget, too few rooms, ignore dietary needs, book last-minute, no rain plan. Now flip each into a requirement.
+
+Listing ways to fail is far easier than writing a recipe for success — and optimism is exactly what hides those risks. That's *one* lens. It doesn't answer anything; it just changes the angle, and things you'd have missed fall out. Prism keeps ~140 of them and picks the ones that fit your problem automatically. Personas ("act as a security reviewer") are lenses too — a bundle of lenses fixed to a character.
+
 ## Three sources of lenses (all live)
 
 1. **The model's head** — lenses the model knows, even from outside the folder.
