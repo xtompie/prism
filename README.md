@@ -1,8 +1,8 @@
 # Prism
 
-> **Claude picks the generic answer by default. Prism makes it choose a lens first.**
+**Thinking lenses.**
 
-Prism is a skill for Claude Code. By default the model goes straight to a result. Type `/prism <task>` and it pauses first: it picks **lenses** — reusable ways of looking at a problem — and lays out the challenges and decisions to settle **before** building anything. It ships with ~142 lenses.
+Prism is a skill for Claude Code that looks at your task through a few lenses first, so you get a thought-out answer instead of a quick, generic one.
 
 ![Prism turning a landing-page request into the decisions that matter](demo/prism-demo.gif)
 
@@ -11,11 +11,9 @@ Prism is a skill for Claude Code. By default the model goes straight to a result
 - `do X for me` — direct, as usual.
 - `/prism do X for me` — it picks the lenses that fit and lays out the decisions first.
 
-To compare, run the same request both ways.
-
 ## Install
 
-Prism is a plain folder-skill — no marketplace, no plugins.
+It's a plain folder-skill.
 
 **Let Claude do it** — paste to Claude Code:
 
@@ -31,9 +29,19 @@ Restart the session and `/prism` is available. Update with `git pull` in that fo
 
 ## What's a lens?
 
-A reusable *way of looking* at a problem — not a solution, not domain knowledge, not a procedure. It doesn't give the answer; it changes the angle and raises a question you'd otherwise skip.
+A reusable **way of looking** at a task — not a solution, not domain knowledge, not a procedure. It doesn't give the answer; it **changes the angle** and raises a question you'd otherwise skip.
 
-**`inversion`** — instead of *"how do I make this succeed?"* it asks *"how would I guarantee this fails?"* Planning a team offsite, "how do I make it great?" gives vague answers; "how would I guarantee a disaster?" gives concrete ones — no budget, too few rooms, booked last-minute, no rain plan — and you turn each into a requirement. That's one lens; Prism has ~142 and picks the ones that fit. Personas ("act as a security reviewer") are lenses too.
+**`inversion`** — instead of asking *"how do I make this succeed?"*, ask *"how would I make it fail?"* For a team trip, "how do I make it great?" gives vague answers. "How would I ruin it?" gives clear ones — no budget, too few rooms, booked too late, no plan for rain. Then turn each one into a must-do.
+
+## Where lenses come from
+
+Prism looks in three places:
+
+- **The model's own head** — lenses it already knows.
+- **The notes** — a folder of short lenses that grows over time.
+- **The web** — only when you ask — to find a new way of looking for the task.
+
+When a new lens proves useful, Prism offers to save it to the notes, with a check against duplicates. The base grows from use.
 
 ## What's in the repo
 
@@ -41,8 +49,4 @@ A reusable *way of looking* at a problem — not a solution, not domain knowledg
 - `INDEX.md` — the lens menu: name + when to use.
 - `lenses/*.md` — each lens in five lines: `name` / `when` / `when_not` + the move.
 
-The model reads the INDEX and loads only the few lenses that fit a task, not the whole set. Lenses come from three places: the model's own knowledge, this folder, and — only when you ask — the web, to find a new way of looking and save it back here. The base grows from use, with a check against duplicates.
-
-## When to use it
-
-On complex, ambiguous, hard-to-reverse work, where a wrong first move is expensive. For typos, renames, and anything cheap to undo, skip it — an entry gate drops out of Prism mode on easy tasks on its own.
+The model reads the INDEX and loads only the few lenses that fit a task, not the whole set.
